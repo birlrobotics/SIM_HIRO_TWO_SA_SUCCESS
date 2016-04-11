@@ -3,6 +3,7 @@
 *.jpeg
 *.tiff
 *.eps
+*.db
 
 # Initialization files
 *.ini
@@ -32,3 +33,6 @@
 # Matlab
 *.fig
 *.mat
+
+# Backup
+*.*~
