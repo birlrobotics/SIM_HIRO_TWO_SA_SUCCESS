@@ -1,0 +1,3339 @@
+Iteration : 1
+Average   : -0.38603
+Max Val   : -0.13850
+Min Val   : -0.63355
+Start     : 0.00000
+Finish    : 0.15000
+Gradient  : -3.30034
+Grad Label: sneg  
+
+Iteration : 2
+Average   : -0.61160
+Max Val   : -0.60434
+Min Val   : -0.61887
+Start     : 0.15000
+Finish    : 0.17500
+Gradient  : -0.58103
+Grad Label: sneg  
+
+Iteration : 3
+Average   : -0.62610
+Max Val   : -0.62520
+Min Val   : -0.62701
+Start     : 0.17500
+Finish    : 0.20000
+Gradient  : -0.07240
+Grad Label: cons  
+
+Iteration : 4
+Average   : -0.63425
+Max Val   : -0.62650
+Min Val   : -0.64201
+Start     : 0.20000
+Finish    : 0.30000
+Gradient  : -0.15508
+Grad Label: cons  
+
+Iteration : 5
+Average   : -0.61383
+Max Val   : -0.57660
+Min Val   : -0.65105
+Start     : 0.30000
+Finish    : 0.97500
+Gradient  : 0.11029
+Grad Label: cons  
+
+Iteration : 6
+Average   : -0.58224
+Max Val   : -0.55667
+Min Val   : -0.60781
+Start     : 0.97500
+Finish    : 1.00000
+Gradient  : -2.04553
+Grad Label: sneg  
+
+Iteration : 7
+Average   : -0.61047
+Max Val   : -0.57052
+Min Val   : -0.65041
+Start     : 1.00000
+Finish    : 1.40000
+Gradient  : 0.19971
+Grad Label: cons  
+
+Iteration : 8
+Average   : -0.53079
+Max Val   : -0.52192
+Min Val   : -0.53965
+Start     : 1.40000
+Finish    : 1.42500
+Gradient  : 0.70904
+Grad Label: spos  
+
+Iteration : 9
+Average   : -0.49863
+Max Val   : -0.48871
+Min Val   : -0.50855
+Start     : 1.42500
+Finish    : 1.80000
+Gradient  : 0.05292
+Grad Label: cons  
+
+Iteration : 10
+Average   : -0.51869
+Max Val   : -0.51377
+Min Val   : -0.52362
+Start     : 1.80000
+Finish    : 1.82500
+Gradient  : -0.39418
+Grad Label: sneg  
+
+Iteration : 11
+Average   : -0.52304
+Max Val   : -0.52122
+Min Val   : -0.52485
+Start     : 1.82500
+Finish    : 2.17500
+Gradient  : 0.01036
+Grad Label: cons  
+
+Iteration : 12
+Average   : -0.52817
+Max Val   : -0.52324
+Min Val   : -0.53310
+Start     : 2.17500
+Finish    : 2.20000
+Gradient  : -0.39412
+Grad Label: sneg  
+
+Iteration : 13
+Average   : -0.53876
+Max Val   : -0.53590
+Min Val   : -0.54162
+Start     : 2.20000
+Finish    : 2.57500
+Gradient  : 0.01526
+Grad Label: cons  
+
+Iteration : 14
+Average   : -0.51500
+Max Val   : -0.49713
+Min Val   : -0.53286
+Start     : 2.57500
+Finish    : 2.60000
+Gradient  : 1.42891
+Grad Label: spos  
+
+Iteration : 15
+Average   : -0.48675
+Max Val   : -0.47954
+Min Val   : -0.49397
+Start     : 2.60000
+Finish    : 3.00000
+Gradient  : -0.03608
+Grad Label: cons  
+
+Iteration : 16
+Average   : -0.50021
+Max Val   : -0.48514
+Min Val   : -0.51527
+Start     : 3.00000
+Finish    : 3.37500
+Gradient  : -0.08034
+Grad Label: cons  
+
+Iteration : 17
+Average   : -0.52931
+Max Val   : -0.51762
+Min Val   : -0.54099
+Start     : 3.37500
+Finish    : 3.40000
+Gradient  : -0.93472
+Grad Label: sneg  
+
+Iteration : 18
+Average   : -0.56309
+Max Val   : -0.55309
+Min Val   : -0.57310
+Start     : 3.40000
+Finish    : 3.77500
+Gradient  : -0.05337
+Grad Label: cons  
+
+Iteration : 19
+Average   : -0.56705
+Max Val   : -0.56105
+Min Val   : -0.57304
+Start     : 3.77500
+Finish    : 3.92500
+Gradient  : 0.07994
+Grad Label: cons  
+
+Iteration : 20
+Average   : -0.54301
+Max Val   : -0.36904
+Min Val   : -0.71698
+Start     : 3.92500
+Finish    : 3.95000
+Gradient  : 13.91781
+Grad Label: pimp  
+
+Iteration : 21
+Average   : 0.30017
+Max Val   : 0.73161
+Min Val   : -0.13127
+Start     : 3.95000
+Finish    : 4.02500
+Gradient  : 11.50509
+Grad Label: bpos  
+
+Iteration : 22
+Average   : 0.20623
+Max Val   : 0.63824
+Min Val   : -0.22578
+Start     : 4.02500
+Finish    : 4.12500
+Gradient  : -8.64020
+Grad Label: bneg  
+
+Iteration : 23
+Average   : -0.34243
+Max Val   : -0.23853
+Min Val   : -0.44633
+Start     : 4.12500
+Finish    : 4.22500
+Gradient  : -2.07797
+Grad Label: sneg  
+
+Iteration : 24
+Average   : -0.37348
+Max Val   : -0.28106
+Min Val   : -0.46591
+Start     : 4.22500
+Finish    : 4.27500
+Gradient  : 3.69688
+Grad Label: spos  
+
+Iteration : 25
+Average   : -0.24243
+Max Val   : -0.22056
+Min Val   : -0.26430
+Start     : 4.27500
+Finish    : 4.30000
+Gradient  : -1.74941
+Grad Label: sneg  
+
+Iteration : 26
+Average   : -0.36221
+Max Val   : -0.29971
+Min Val   : -0.42472
+Start     : 4.30000
+Finish    : 4.45000
+Gradient  : -0.83338
+Grad Label: sneg  
+
+Iteration : 27
+Average   : -0.41840
+Max Val   : -0.41476
+Min Val   : -0.42204
+Start     : 4.45000
+Finish    : 4.50000
+Gradient  : -0.14567
+Grad Label: cons  
+
+Iteration : 28
+Average   : -0.42475
+Max Val   : -0.42393
+Min Val   : -0.42558
+Start     : 4.50000
+Finish    : 4.55000
+Gradient  : -0.03302
+Grad Label: cons  
+
+Iteration : 29
+Average   : -0.42472
+Max Val   : -0.41624
+Min Val   : -0.43320
+Start     : 4.55000
+Finish    : 4.60000
+Gradient  : 0.33923
+Grad Label: cons  
+
+Iteration : 30
+Average   : -0.40897
+Max Val   : -0.37048
+Min Val   : -0.44747
+Start     : 4.60000
+Finish    : 4.62500
+Gradient  : 3.07981
+Grad Label: spos  
+
+Iteration : 31
+Average   : -0.24974
+Max Val   : -0.15116
+Min Val   : -0.34831
+Start     : 4.62500
+Finish    : 4.70000
+Gradient  : 2.62877
+Grad Label: spos  
+
+Iteration : 32
+Average   : -0.13763
+Max Val   : -0.12341
+Min Val   : -0.15186
+Start     : 4.70000
+Finish    : 4.72500
+Gradient  : -1.13782
+Grad Label: sneg  
+
+Iteration : 33
+Average   : -0.17028
+Max Val   : -0.14111
+Min Val   : -0.19945
+Start     : 4.72500
+Finish    : 4.75000
+Gradient  : -2.33361
+Grad Label: sneg  
+
+Iteration : 34
+Average   : -0.22747
+Max Val   : -0.20526
+Min Val   : -0.24969
+Start     : 4.75000
+Finish    : 4.77500
+Gradient  : -1.77688
+Grad Label: sneg  
+
+Iteration : 35
+Average   : -0.27007
+Max Val   : -0.26036
+Min Val   : -0.27978
+Start     : 4.77500
+Finish    : 4.80000
+Gradient  : -0.77693
+Grad Label: sneg  
+
+Iteration : 36
+Average   : -0.29048
+Max Val   : -0.28238
+Min Val   : -0.29857
+Start     : 4.80000
+Finish    : 4.82500
+Gradient  : -0.64757
+Grad Label: sneg  
+
+Iteration : 37
+Average   : -0.34491
+Max Val   : -0.30488
+Min Val   : -0.38494
+Start     : 4.82500
+Finish    : 4.92500
+Gradient  : -0.80055
+Grad Label: sneg  
+
+Iteration : 38
+Average   : -0.38241
+Max Val   : -0.37942
+Min Val   : -0.38540
+Start     : 4.92500
+Finish    : 4.95000
+Gradient  : 0.23927
+Grad Label: cons  
+
+Iteration : 39
+Average   : -0.37712
+Max Val   : -0.37290
+Min Val   : -0.38133
+Start     : 4.95000
+Finish    : 4.97500
+Gradient  : 0.33726
+Grad Label: cons  
+
+Iteration : 40
+Average   : -0.36837
+Max Val   : -0.36343
+Min Val   : -0.37331
+Start     : 4.97500
+Finish    : 5.00000
+Gradient  : 0.39534
+Grad Label: spos  
+
+Iteration : 41
+Average   : -0.36039
+Max Val   : -0.35424
+Min Val   : -0.36654
+Start     : 5.00000
+Finish    : 5.02500
+Gradient  : 0.49171
+Grad Label: spos  
+
+Iteration : 42
+Average   : -0.34825
+Max Val   : -0.34288
+Min Val   : -0.35363
+Start     : 5.02500
+Finish    : 5.05000
+Gradient  : 0.43005
+Grad Label: spos  
+
+Iteration : 43
+Average   : -0.33710
+Max Val   : -0.33307
+Min Val   : -0.34113
+Start     : 5.05000
+Finish    : 5.07500
+Gradient  : 0.32208
+Grad Label: cons  
+
+Iteration : 44
+Average   : -0.32973
+Max Val   : -0.32630
+Min Val   : -0.33315
+Start     : 5.07500
+Finish    : 5.10000
+Gradient  : 0.27431
+Grad Label: cons  
+
+Iteration : 45
+Average   : -0.32679
+Max Val   : -0.31745
+Min Val   : -0.33614
+Start     : 5.10000
+Finish    : 5.12500
+Gradient  : 0.74724
+Grad Label: spos  
+
+Iteration : 46
+Average   : -0.30537
+Max Val   : -0.29563
+Min Val   : -0.31512
+Start     : 5.12500
+Finish    : 5.15000
+Gradient  : 0.77926
+Grad Label: spos  
+
+Iteration : 47
+Average   : -0.28492
+Max Val   : -0.28281
+Min Val   : -0.28703
+Start     : 5.15000
+Finish    : 5.17500
+Gradient  : 0.16885
+Grad Label: cons  
+
+Iteration : 48
+Average   : -0.28051
+Max Val   : -0.27459
+Min Val   : -0.28642
+Start     : 5.17500
+Finish    : 5.20000
+Gradient  : -0.47336
+Grad Label: sneg  
+
+Iteration : 49
+Average   : -0.29114
+Max Val   : -0.28555
+Min Val   : -0.29673
+Start     : 5.20000
+Finish    : 5.22500
+Gradient  : -0.44727
+Grad Label: sneg  
+
+Iteration : 50
+Average   : -0.29749
+Max Val   : -0.28369
+Min Val   : -0.31128
+Start     : 5.22500
+Finish    : 5.27500
+Gradient  : 0.55186
+Grad Label: spos  
+
+Iteration : 51
+Average   : -0.28064
+Max Val   : -0.27809
+Min Val   : -0.28320
+Start     : 5.27500
+Finish    : 5.30000
+Gradient  : 0.20416
+Grad Label: cons  
+
+Iteration : 52
+Average   : -0.26899
+Max Val   : -0.24521
+Min Val   : -0.29277
+Start     : 5.30000
+Finish    : 5.32500
+Gradient  : 1.90246
+Grad Label: spos  
+
+Iteration : 53
+Average   : -0.22098
+Max Val   : -0.21108
+Min Val   : -0.23088
+Start     : 5.32500
+Finish    : 5.35000
+Gradient  : 0.79230
+Grad Label: spos  
+
+Iteration : 54
+Average   : -0.20019
+Max Val   : -0.19472
+Min Val   : -0.20566
+Start     : 5.35000
+Finish    : 5.40000
+Gradient  : 0.21887
+Grad Label: cons  
+
+Iteration : 55
+Average   : -0.19152
+Max Val   : -0.17586
+Min Val   : -0.20719
+Start     : 5.40000
+Finish    : 5.42500
+Gradient  : -1.25325
+Grad Label: sneg  
+
+Iteration : 56
+Average   : -0.21769
+Max Val   : -0.19018
+Min Val   : -0.24521
+Start     : 5.42500
+Finish    : 5.45000
+Gradient  : -2.20125
+Grad Label: sneg  
+
+Iteration : 57
+Average   : -0.34024
+Max Val   : -0.27447
+Min Val   : -0.40602
+Start     : 5.45000
+Finish    : 5.55000
+Gradient  : -1.31552
+Grad Label: sneg  
+
+Iteration : 58
+Average   : -0.40159
+Max Val   : -0.36863
+Min Val   : -0.43455
+Start     : 5.55000
+Finish    : 5.57500
+Gradient  : 2.63683
+Grad Label: spos  
+
+Iteration : 59
+Average   : -0.32918
+Max Val   : -0.32634
+Min Val   : -0.33202
+Start     : 5.57500
+Finish    : 5.60000
+Gradient  : 0.22684
+Grad Label: cons  
+
+Iteration : 60
+Average   : -0.29570
+Max Val   : -0.27512
+Min Val   : -0.31628
+Start     : 5.60000
+Finish    : 5.67500
+Gradient  : 0.54874
+Grad Label: spos  
+
+Iteration : 61
+Average   : -0.28137
+Max Val   : -0.26622
+Min Val   : -0.29651
+Start     : 5.67500
+Finish    : 5.70000
+Gradient  : -1.21152
+Grad Label: sneg  
+
+Iteration : 62
+Average   : -0.31114
+Max Val   : -0.30760
+Min Val   : -0.31468
+Start     : 5.70000
+Finish    : 5.72500
+Gradient  : -0.28288
+Grad Label: cons  
+
+Iteration : 63
+Average   : -0.31879
+Max Val   : -0.31540
+Min Val   : -0.32217
+Start     : 5.72500
+Finish    : 5.75000
+Gradient  : -0.27104
+Grad Label: cons  
+
+Iteration : 64
+Average   : -0.32493
+Max Val   : -0.32014
+Min Val   : -0.32972
+Start     : 5.75000
+Finish    : 5.77500
+Gradient  : -0.38340
+Grad Label: sneg  
+
+Iteration : 65
+Average   : -0.33418
+Max Val   : -0.33053
+Min Val   : -0.33783
+Start     : 5.77500
+Finish    : 5.80000
+Gradient  : -0.29210
+Grad Label: cons  
+
+Iteration : 66
+Average   : -0.34080
+Max Val   : -0.34042
+Min Val   : -0.34117
+Start     : 5.80000
+Finish    : 5.82500
+Gradient  : -0.03008
+Grad Label: cons  
+
+Iteration : 67
+Average   : -0.34226
+Max Val   : -0.34209
+Min Val   : -0.34243
+Start     : 5.82500
+Finish    : 5.85000
+Gradient  : 0.01391
+Grad Label: cons  
+
+Iteration : 68
+Average   : -0.34036
+Max Val   : -0.31527
+Min Val   : -0.36544
+Start     : 5.85000
+Finish    : 5.87500
+Gradient  : 2.00675
+Grad Label: spos  
+
+Iteration : 69
+Average   : -0.07556
+Max Val   : 0.11934
+Min Val   : -0.27046
+Start     : 5.87500
+Finish    : 6.07500
+Gradient  : 1.94904
+Grad Label: spos  
+
+Iteration : 70
+Average   : 0.00342
+Max Val   : 0.10424
+Min Val   : -0.09739
+Start     : 6.07500
+Finish    : 6.12500
+Gradient  : -4.03260
+Grad Label: sneg  
+
+Iteration : 71
+Average   : -0.13595
+Max Val   : -0.12316
+Min Val   : -0.14875
+Start     : 6.12500
+Finish    : 6.15000
+Gradient  : -1.02351
+Grad Label: sneg  
+
+Iteration : 72
+Average   : -0.16056
+Max Val   : -0.15354
+Min Val   : -0.16757
+Start     : 6.15000
+Finish    : 6.17500
+Gradient  : -0.56107
+Grad Label: sneg  
+
+Iteration : 73
+Average   : -0.17651
+Max Val   : -0.16449
+Min Val   : -0.18852
+Start     : 6.17500
+Finish    : 6.20000
+Gradient  : -0.96144
+Grad Label: sneg  
+
+Iteration : 74
+Average   : -0.19851
+Max Val   : -0.18359
+Min Val   : -0.21343
+Start     : 6.20000
+Finish    : 6.22500
+Gradient  : -1.19373
+Grad Label: sneg  
+
+Iteration : 75
+Average   : -0.22953
+Max Val   : -0.22390
+Min Val   : -0.23516
+Start     : 6.22500
+Finish    : 6.25000
+Gradient  : -0.45043
+Grad Label: sneg  
+
+Iteration : 76
+Average   : -0.24026
+Max Val   : -0.21807
+Min Val   : -0.26245
+Start     : 6.25000
+Finish    : 6.27500
+Gradient  : 1.77544
+Grad Label: spos  
+
+Iteration : 77
+Average   : -0.20780
+Max Val   : -0.18763
+Min Val   : -0.22796
+Start     : 6.27500
+Finish    : 6.30000
+Gradient  : 1.61333
+Grad Label: spos  
+
+Iteration : 78
+Average   : -0.16426
+Max Val   : -0.14302
+Min Val   : -0.18549
+Start     : 6.30000
+Finish    : 6.32500
+Gradient  : 1.69869
+Grad Label: spos  
+
+Iteration : 79
+Average   : -0.12257
+Max Val   : -0.10361
+Min Val   : -0.14154
+Start     : 6.32500
+Finish    : 6.35000
+Gradient  : 1.51707
+Grad Label: spos  
+
+Iteration : 80
+Average   : -0.08242
+Max Val   : -0.06953
+Min Val   : -0.09531
+Start     : 6.35000
+Finish    : 6.37500
+Gradient  : 1.03098
+Grad Label: spos  
+
+Iteration : 81
+Average   : -0.05889
+Max Val   : -0.04998
+Min Val   : -0.06780
+Start     : 6.37500
+Finish    : 6.40000
+Gradient  : 0.71301
+Grad Label: spos  
+
+Iteration : 82
+Average   : -0.03883
+Max Val   : -0.03252
+Min Val   : -0.04514
+Start     : 6.40000
+Finish    : 6.42500
+Gradient  : 0.50477
+Grad Label: spos  
+
+Iteration : 83
+Average   : -0.02847
+Max Val   : -0.01966
+Min Val   : -0.03728
+Start     : 6.42500
+Finish    : 6.45000
+Gradient  : 0.70457
+Grad Label: spos  
+
+Iteration : 84
+Average   : -0.00994
+Max Val   : -0.00169
+Min Val   : -0.01818
+Start     : 6.45000
+Finish    : 6.47500
+Gradient  : 0.65962
+Grad Label: spos  
+
+Iteration : 85
+Average   : 0.00427
+Max Val   : 0.00766
+Min Val   : 0.00088
+Start     : 6.47500
+Finish    : 6.50000
+Gradient  : 0.27120
+Grad Label: cons  
+
+Iteration : 86
+Average   : 0.01334
+Max Val   : 0.01596
+Min Val   : 0.01072
+Start     : 6.50000
+Finish    : 6.52500
+Gradient  : 0.20973
+Grad Label: cons  
+
+Iteration : 87
+Average   : 0.01628
+Max Val   : 0.01834
+Min Val   : 0.01422
+Start     : 6.52500
+Finish    : 6.55000
+Gradient  : 0.16482
+Grad Label: cons  
+
+Iteration : 88
+Average   : 0.02381
+Max Val   : 0.02885
+Min Val   : 0.01877
+Start     : 6.55000
+Finish    : 6.57500
+Gradient  : -0.40290
+Grad Label: sneg  
+
+Iteration : 89
+Average   : 0.01044
+Max Val   : 0.03285
+Min Val   : -0.01197
+Start     : 6.57500
+Finish    : 6.60000
+Gradient  : -1.79302
+Grad Label: sneg  
+
+Iteration : 90
+Average   : -0.03782
+Max Val   : -0.02181
+Min Val   : -0.05383
+Start     : 6.60000
+Finish    : 6.62500
+Gradient  : -1.28074
+Grad Label: sneg  
+
+Iteration : 91
+Average   : -0.10495
+Max Val   : -0.06940
+Min Val   : -0.14051
+Start     : 6.62500
+Finish    : 6.72500
+Gradient  : -0.71111
+Grad Label: sneg  
+
+Iteration : 92
+Average   : -0.14225
+Max Val   : -0.13844
+Min Val   : -0.14606
+Start     : 6.72500
+Finish    : 6.75000
+Gradient  : 0.30459
+Grad Label: cons  
+
+Iteration : 93
+Average   : -0.13546
+Max Val   : -0.12751
+Min Val   : -0.14340
+Start     : 6.75000
+Finish    : 6.77500
+Gradient  : 0.63561
+Grad Label: spos  
+
+Iteration : 94
+Average   : -0.11936
+Max Val   : -0.11872
+Min Val   : -0.12001
+Start     : 6.77500
+Finish    : 6.80000
+Gradient  : 0.05152
+Grad Label: cons  
+
+Iteration : 95
+Average   : -0.11709
+Max Val   : -0.11603
+Min Val   : -0.11816
+Start     : 6.80000
+Finish    : 6.82500
+Gradient  : 0.08512
+Grad Label: cons  
+
+Iteration : 96
+Average   : -0.11601
+Max Val   : -0.11486
+Min Val   : -0.11716
+Start     : 6.82500
+Finish    : 6.85000
+Gradient  : 0.09197
+Grad Label: cons  
+
+Iteration : 97
+Average   : -0.11260
+Max Val   : -0.11126
+Min Val   : -0.11394
+Start     : 6.85000
+Finish    : 6.87500
+Gradient  : 0.10717
+Grad Label: cons  
+
+Iteration : 98
+Average   : -0.10982
+Max Val   : -0.10029
+Min Val   : -0.11935
+Start     : 6.87500
+Finish    : 6.90000
+Gradient  : -0.76239
+Grad Label: sneg  
+
+Iteration : 99
+Average   : -0.24221
+Max Val   : -0.14646
+Min Val   : -0.33795
+Start     : 6.90000
+Finish    : 7.05000
+Gradient  : -1.27663
+Grad Label: sneg  
+
+Iteration : 100
+Average   : -0.32299
+Max Val   : -0.31591
+Min Val   : -0.33008
+Start     : 7.05000
+Finish    : 7.07500
+Gradient  : 0.56667
+Grad Label: spos  
+
+Iteration : 101
+Average   : -0.30622
+Max Val   : -0.30417
+Min Val   : -0.30828
+Start     : 7.07500
+Finish    : 7.10000
+Gradient  : -0.16439
+Grad Label: cons  
+
+Iteration : 102
+Average   : -0.30953
+Max Val   : -0.30775
+Min Val   : -0.31130
+Start     : 7.10000
+Finish    : 7.12500
+Gradient  : -0.14217
+Grad Label: cons  
+
+Iteration : 103
+Average   : -0.31392
+Max Val   : -0.31107
+Min Val   : -0.31677
+Start     : 7.12500
+Finish    : 7.15000
+Gradient  : -0.22822
+Grad Label: cons  
+
+Iteration : 104
+Average   : -0.31888
+Max Val   : -0.31581
+Min Val   : -0.32195
+Start     : 7.15000
+Finish    : 7.17500
+Gradient  : -0.24575
+Grad Label: cons  
+
+Iteration : 105
+Average   : -0.32583
+Max Val   : -0.32318
+Min Val   : -0.32847
+Start     : 7.17500
+Finish    : 7.20000
+Gradient  : -0.21158
+Grad Label: cons  
+
+Iteration : 106
+Average   : -0.32822
+Max Val   : -0.32414
+Min Val   : -0.33231
+Start     : 7.20000
+Finish    : 7.22500
+Gradient  : 0.32688
+Grad Label: cons  
+
+Iteration : 107
+Average   : -0.32091
+Max Val   : -0.32052
+Min Val   : -0.32129
+Start     : 7.22500
+Finish    : 7.25000
+Gradient  : 0.03074
+Grad Label: cons  
+
+Iteration : 108
+Average   : -0.31967
+Max Val   : -0.31833
+Min Val   : -0.32101
+Start     : 7.25000
+Finish    : 7.27500
+Gradient  : -0.10753
+Grad Label: cons  
+
+Iteration : 109
+Average   : -0.32323
+Max Val   : -0.32212
+Min Val   : -0.32434
+Start     : 7.27500
+Finish    : 7.30000
+Gradient  : -0.08893
+Grad Label: cons  
+
+Iteration : 110
+Average   : -0.32458
+Max Val   : -0.32366
+Min Val   : -0.32551
+Start     : 7.30000
+Finish    : 7.32500
+Gradient  : -0.07390
+Grad Label: cons  
+
+Iteration : 111
+Average   : -0.32730
+Max Val   : -0.32653
+Min Val   : -0.32808
+Start     : 7.32500
+Finish    : 7.35000
+Gradient  : -0.06210
+Grad Label: cons  
+
+Iteration : 112
+Average   : -0.33141
+Max Val   : -0.30665
+Min Val   : -0.35617
+Start     : 7.35000
+Finish    : 7.37500
+Gradient  : -1.98045
+Grad Label: sneg  
+
+Iteration : 113
+Average   : -0.37717
+Max Val   : -0.36366
+Min Val   : -0.39069
+Start     : 7.37500
+Finish    : 7.40000
+Gradient  : -1.08133
+Grad Label: sneg  
+
+Iteration : 114
+Average   : -0.39451
+Max Val   : -0.33281
+Min Val   : -0.45622
+Start     : 7.40000
+Finish    : 7.42500
+Gradient  : 4.93664
+Grad Label: mpos  
+
+Iteration : 115
+Average   : -0.20529
+Max Val   : -0.09222
+Min Val   : -0.31836
+Start     : 7.42500
+Finish    : 7.47500
+Gradient  : 4.52294
+Grad Label: mpos  
+
+Iteration : 116
+Average   : -0.05301
+Max Val   : -0.01313
+Min Val   : -0.09290
+Start     : 7.47500
+Finish    : 7.50000
+Gradient  : -3.19083
+Grad Label: sneg  
+
+Iteration : 117
+Average   : -0.13043
+Max Val   : -0.09475
+Min Val   : -0.16611
+Start     : 7.50000
+Finish    : 7.52500
+Gradient  : -2.85429
+Grad Label: sneg  
+
+Iteration : 118
+Average   : -0.20460
+Max Val   : -0.20214
+Min Val   : -0.20706
+Start     : 7.52500
+Finish    : 7.55000
+Gradient  : -0.19674
+Grad Label: cons  
+
+Iteration : 119
+Average   : -0.11842
+Max Val   : -0.03937
+Min Val   : -0.19748
+Start     : 7.55000
+Finish    : 7.62500
+Gradient  : 2.10820
+Grad Label: spos  
+
+Iteration : 120
+Average   : -0.10759
+Max Val   : -0.02151
+Min Val   : -0.19366
+Start     : 7.62500
+Finish    : 7.67500
+Gradient  : -3.44289
+Grad Label: sneg  
+
+Iteration : 121
+Average   : -0.22824
+Max Val   : -0.18821
+Min Val   : -0.26828
+Start     : 7.67500
+Finish    : 7.70000
+Gradient  : 3.20289
+Grad Label: spos  
+
+Iteration : 122
+Average   : -0.14864
+Max Val   : -0.14212
+Min Val   : -0.15516
+Start     : 7.70000
+Finish    : 7.72500
+Gradient  : -0.52137
+Grad Label: sneg  
+
+Iteration : 123
+Average   : -0.36784
+Max Val   : -0.21569
+Min Val   : -0.52000
+Start     : 7.72500
+Finish    : 7.97500
+Gradient  : -1.21724
+Grad Label: sneg  
+
+Iteration : 124
+Average   : -0.46676
+Max Val   : -0.43505
+Min Val   : -0.49848
+Start     : 7.97500
+Finish    : 8.00000
+Gradient  : 2.53725
+Grad Label: spos  
+
+Iteration : 125
+Average   : -0.15871
+Max Val   : 0.06625
+Min Val   : -0.38368
+Start     : 8.00000
+Finish    : 8.12500
+Gradient  : 3.59946
+Grad Label: spos  
+
+Iteration : 126
+Average   : 0.04904
+Max Val   : 0.05364
+Min Val   : 0.04445
+Start     : 8.12500
+Finish    : 8.15000
+Gradient  : 0.36769
+Grad Label: spos  
+
+Iteration : 127
+Average   : 0.06066
+Max Val   : 0.06170
+Min Val   : 0.05962
+Start     : 8.15000
+Finish    : 8.17500
+Gradient  : -0.08310
+Grad Label: cons  
+
+Iteration : 128
+Average   : 0.05619
+Max Val   : 0.05930
+Min Val   : 0.05309
+Start     : 8.17500
+Finish    : 8.20000
+Gradient  : -0.24818
+Grad Label: cons  
+
+Iteration : 129
+Average   : 0.05232
+Max Val   : 0.05680
+Min Val   : 0.04785
+Start     : 8.20000
+Finish    : 8.22500
+Gradient  : -0.35802
+Grad Label: sneg  
+
+Iteration : 130
+Average   : 0.04108
+Max Val   : 0.04626
+Min Val   : 0.03590
+Start     : 8.22500
+Finish    : 8.25000
+Gradient  : -0.41458
+Grad Label: sneg  
+
+Iteration : 131
+Average   : 0.03366
+Max Val   : 0.05030
+Min Val   : 0.01703
+Start     : 8.25000
+Finish    : 8.27500
+Gradient  : 1.33103
+Grad Label: spos  
+
+Iteration : 132
+Average   : 0.05934
+Max Val   : 0.08304
+Min Val   : 0.03564
+Start     : 8.27500
+Finish    : 8.30000
+Gradient  : 1.89587
+Grad Label: spos  
+
+Iteration : 133
+Average   : 0.10881
+Max Val   : 0.11463
+Min Val   : 0.10300
+Start     : 8.30000
+Finish    : 8.32500
+Gradient  : 0.46506
+Grad Label: spos  
+
+Iteration : 134
+Average   : 0.11821
+Max Val   : 0.12064
+Min Val   : 0.11579
+Start     : 8.32500
+Finish    : 8.35000
+Gradient  : 0.19410
+Grad Label: cons  
+
+Iteration : 135
+Average   : 0.12535
+Max Val   : 0.12578
+Min Val   : 0.12492
+Start     : 8.35000
+Finish    : 8.37500
+Gradient  : 0.03459
+Grad Label: cons  
+
+Iteration : 136
+Average   : 0.12395
+Max Val   : 0.12482
+Min Val   : 0.12309
+Start     : 8.37500
+Finish    : 8.40000
+Gradient  : -0.06907
+Grad Label: cons  
+
+Iteration : 137
+Average   : 0.12447
+Max Val   : 0.13232
+Min Val   : 0.11663
+Start     : 8.40000
+Finish    : 8.42500
+Gradient  : -0.62776
+Grad Label: sneg  
+
+Iteration : 138
+Average   : 0.10858
+Max Val   : 0.11703
+Min Val   : 0.10014
+Start     : 8.42500
+Finish    : 8.45000
+Gradient  : -0.67554
+Grad Label: sneg  
+
+Iteration : 139
+Average   : 0.09432
+Max Val   : 0.09852
+Min Val   : 0.09012
+Start     : 8.45000
+Finish    : 8.47500
+Gradient  : -0.33596
+Grad Label: cons  
+
+Iteration : 140
+Average   : 0.08316
+Max Val   : 0.09875
+Min Val   : 0.06756
+Start     : 8.47500
+Finish    : 8.50000
+Gradient  : -1.24773
+Grad Label: sneg  
+
+Iteration : 141
+Average   : 0.05349
+Max Val   : 0.07170
+Min Val   : 0.03529
+Start     : 8.50000
+Finish    : 8.52500
+Gradient  : -1.45646
+Grad Label: sneg  
+
+Iteration : 142
+Average   : 0.01517
+Max Val   : 0.03040
+Min Val   : -0.00006
+Start     : 8.52500
+Finish    : 8.55000
+Gradient  : -1.21835
+Grad Label: sneg  
+
+Iteration : 143
+Average   : -0.01369
+Max Val   : 0.00828
+Min Val   : -0.03567
+Start     : 8.55000
+Finish    : 8.57500
+Gradient  : -1.75774
+Grad Label: sneg  
+
+Iteration : 144
+Average   : -0.05556
+Max Val   : -0.04345
+Min Val   : -0.06766
+Start     : 8.57500
+Finish    : 8.60000
+Gradient  : -0.96853
+Grad Label: sneg  
+
+Iteration : 145
+Average   : -0.07792
+Max Val   : -0.07745
+Min Val   : -0.07839
+Start     : 8.60000
+Finish    : 8.62500
+Gradient  : 0.03726
+Grad Label: cons  
+
+Iteration : 146
+Average   : -0.07864
+Max Val   : -0.07794
+Min Val   : -0.07935
+Start     : 8.62500
+Finish    : 8.65000
+Gradient  : -0.05630
+Grad Label: cons  
+
+Iteration : 147
+Average   : -0.07797
+Max Val   : -0.07389
+Min Val   : -0.08204
+Start     : 8.65000
+Finish    : 8.67500
+Gradient  : -0.32630
+Grad Label: cons  
+
+Iteration : 148
+Average   : -0.08952
+Max Val   : -0.08133
+Min Val   : -0.09771
+Start     : 8.67500
+Finish    : 8.70000
+Gradient  : -0.65535
+Grad Label: sneg  
+
+Iteration : 149
+Average   : -0.10473
+Max Val   : -0.09833
+Min Val   : -0.11113
+Start     : 8.70000
+Finish    : 8.72500
+Gradient  : 0.51206
+Grad Label: spos  
+
+Iteration : 150
+Average   : -0.08623
+Max Val   : -0.07487
+Min Val   : -0.09759
+Start     : 8.72500
+Finish    : 8.75000
+Gradient  : -0.90898
+Grad Label: sneg  
+
+Iteration : 151
+Average   : -0.10737
+Max Val   : -0.09720
+Min Val   : -0.11754
+Start     : 8.75000
+Finish    : 8.77500
+Gradient  : -0.81339
+Grad Label: sneg  
+
+Iteration : 152
+Average   : -0.12917
+Max Val   : -0.11991
+Min Val   : -0.13843
+Start     : 8.77500
+Finish    : 8.80000
+Gradient  : -0.74086
+Grad Label: sneg  
+
+Iteration : 153
+Average   : -0.14627
+Max Val   : -0.13761
+Min Val   : -0.15493
+Start     : 8.80000
+Finish    : 8.82500
+Gradient  : -0.69283
+Grad Label: sneg  
+
+Iteration : 154
+Average   : -0.16452
+Max Val   : -0.15251
+Min Val   : -0.17654
+Start     : 8.82500
+Finish    : 8.85000
+Gradient  : -0.96146
+Grad Label: sneg  
+
+Iteration : 155
+Average   : -0.18597
+Max Val   : -0.17153
+Min Val   : -0.20040
+Start     : 8.85000
+Finish    : 8.87500
+Gradient  : -1.15464
+Grad Label: sneg  
+
+Iteration : 156
+Average   : -0.21681
+Max Val   : -0.20702
+Min Val   : -0.22660
+Start     : 8.87500
+Finish    : 8.90000
+Gradient  : -0.78336
+Grad Label: sneg  
+
+Iteration : 157
+Average   : -0.36364
+Max Val   : -0.24237
+Min Val   : -0.48490
+Start     : 8.90000
+Finish    : 9.07500
+Gradient  : -1.38591
+Grad Label: sneg  
+
+Iteration : 158
+Average   : -0.46252
+Max Val   : -0.45467
+Min Val   : -0.47036
+Start     : 9.07500
+Finish    : 9.10000
+Gradient  : 0.62753
+Grad Label: spos  
+
+Iteration : 159
+Average   : -0.38081
+Max Val   : -0.31953
+Min Val   : -0.44209
+Start     : 9.10000
+Finish    : 9.22500
+Gradient  : 0.98046
+Grad Label: spos  
+
+Iteration : 160
+Average   : -0.32165
+Max Val   : -0.31754
+Min Val   : -0.32575
+Start     : 9.22500
+Finish    : 9.25000
+Gradient  : 0.32843
+Grad Label: cons  
+
+Iteration : 161
+Average   : -0.31529
+Max Val   : -0.31474
+Min Val   : -0.31583
+Start     : 9.25000
+Finish    : 9.27500
+Gradient  : -0.04367
+Grad Label: cons  
+
+Iteration : 162
+Average   : -0.40079
+Max Val   : -0.31472
+Min Val   : -0.48686
+Start     : 9.27500
+Finish    : 9.37500
+Gradient  : -1.72140
+Grad Label: sneg  
+
+Iteration : 163
+Average   : -0.48419
+Max Val   : -0.48412
+Min Val   : -0.48426
+Start     : 9.37500
+Finish    : 9.40000
+Gradient  : 0.00582
+Grad Label: cons  
+
+Iteration : 164
+Average   : -0.48487
+Max Val   : -0.48197
+Min Val   : -0.48776
+Start     : 9.40000
+Finish    : 9.42500
+Gradient  : 0.23171
+Grad Label: cons  
+
+Iteration : 165
+Average   : -0.47926
+Max Val   : -0.46468
+Min Val   : -0.49385
+Start     : 9.42500
+Finish    : 9.45000
+Gradient  : 1.16689
+Grad Label: spos  
+
+Iteration : 166
+Average   : -0.45054
+Max Val   : -0.44417
+Min Val   : -0.45690
+Start     : 9.45000
+Finish    : 9.47500
+Gradient  : 0.50913
+Grad Label: spos  
+
+Iteration : 167
+Average   : -0.43438
+Max Val   : -0.42601
+Min Val   : -0.44275
+Start     : 9.47500
+Finish    : 9.50000
+Gradient  : -0.66967
+Grad Label: sneg  
+
+Iteration : 168
+Average   : -0.50799
+Max Val   : -0.45491
+Min Val   : -0.56107
+Start     : 9.50000
+Finish    : 9.65000
+Gradient  : -0.70777
+Grad Label: sneg  
+
+Iteration : 169
+Average   : -0.55210
+Max Val   : -0.54915
+Min Val   : -0.55506
+Start     : 9.65000
+Finish    : 9.67500
+Gradient  : -0.23650
+Grad Label: cons  
+
+Iteration : 170
+Average   : -0.55952
+Max Val   : -0.55948
+Min Val   : -0.55955
+Start     : 9.67500
+Finish    : 9.70000
+Gradient  : 0.00287
+Grad Label: cons  
+
+Iteration : 171
+Average   : -0.55920
+Max Val   : -0.54339
+Min Val   : -0.57501
+Start     : 9.70000
+Finish    : 9.72500
+Gradient  : 1.26482
+Grad Label: spos  
+
+Iteration : 172
+Average   : -0.52073
+Max Val   : -0.51358
+Min Val   : -0.52788
+Start     : 9.72500
+Finish    : 9.77500
+Gradient  : -0.28592
+Grad Label: cons  
+
+Iteration : 173
+Average   : -0.53125
+Max Val   : -0.51802
+Min Val   : -0.54449
+Start     : 9.77500
+Finish    : 9.80000
+Gradient  : -1.05891
+Grad Label: sneg  
+
+Iteration : 174
+Average   : -0.55324
+Max Val   : -0.54026
+Min Val   : -0.56623
+Start     : 9.80000
+Finish    : 9.85000
+Gradient  : 0.51941
+Grad Label: spos  
+
+Iteration : 175
+Average   : -0.53107
+Max Val   : -0.52591
+Min Val   : -0.53622
+Start     : 9.85000
+Finish    : 9.87500
+Gradient  : 0.41273
+Grad Label: spos  
+
+Iteration : 176
+Average   : -0.50406
+Max Val   : -0.49222
+Min Val   : -0.51590
+Start     : 9.87500
+Finish    : 9.97500
+Gradient  : 0.23676
+Grad Label: cons  
+
+Iteration : 177
+Average   : -0.49647
+Max Val   : -0.49189
+Min Val   : -0.50106
+Start     : 9.97500
+Finish    : 10.00000
+Gradient  : -0.36665
+Grad Label: sneg  
+
+Iteration : 178
+Average   : -0.50593
+Max Val   : -0.50090
+Min Val   : -0.51096
+Start     : 10.00000
+Finish    : 10.02500
+Gradient  : 0.40256
+Grad Label: spos  
+
+Iteration : 179
+Average   : -0.49708
+Max Val   : -0.49553
+Min Val   : -0.49863
+Start     : 10.02500
+Finish    : 10.05000
+Gradient  : -0.12389
+Grad Label: cons  
+
+Iteration : 180
+Average   : -0.52435
+Max Val   : -0.49069
+Min Val   : -0.55800
+Start     : 10.05000
+Finish    : 10.12500
+Gradient  : -0.89748
+Grad Label: sneg  
+
+Iteration : 181
+Average   : -0.56164
+Max Val   : -0.54924
+Min Val   : -0.57403
+Start     : 10.12500
+Finish    : 10.15000
+Gradient  : 0.99175
+Grad Label: spos  
+
+Iteration : 182
+Average   : -0.53619
+Max Val   : -0.53153
+Min Val   : -0.54086
+Start     : 10.15000
+Finish    : 10.17500
+Gradient  : 0.37343
+Grad Label: spos  
+
+Iteration : 183
+Average   : -0.52932
+Max Val   : -0.52047
+Min Val   : -0.53817
+Start     : 10.17500
+Finish    : 10.20000
+Gradient  : 0.70797
+Grad Label: spos  
+
+Iteration : 184
+Average   : -0.50790
+Max Val   : -0.49306
+Min Val   : -0.52274
+Start     : 10.20000
+Finish    : 10.22500
+Gradient  : 1.18723
+Grad Label: spos  
+
+Iteration : 185
+Average   : -0.47868
+Max Val   : -0.45941
+Min Val   : -0.49795
+Start     : 10.22500
+Finish    : 10.25000
+Gradient  : 1.54154
+Grad Label: spos  
+
+Iteration : 186
+Average   : -0.43973
+Max Val   : -0.43195
+Min Val   : -0.44751
+Start     : 10.25000
+Finish    : 10.27500
+Gradient  : -0.62259
+Grad Label: sneg  
+
+Iteration : 187
+Average   : -0.46025
+Max Val   : -0.43594
+Min Val   : -0.48456
+Start     : 10.27500
+Finish    : 10.30000
+Gradient  : -1.94477
+Grad Label: sneg  
+
+Iteration : 188
+Average   : -0.55964
+Max Val   : -0.50285
+Min Val   : -0.61643
+Start     : 10.30000
+Finish    : 10.37500
+Gradient  : -1.51438
+Grad Label: sneg  
+
+Iteration : 189
+Average   : -0.62038
+Max Val   : -0.61883
+Min Val   : -0.62194
+Start     : 10.37500
+Finish    : 10.40000
+Gradient  : -0.12448
+Grad Label: cons  
+
+Iteration : 190
+Average   : -0.62089
+Max Val   : -0.62053
+Min Val   : -0.62126
+Start     : 10.40000
+Finish    : 10.42500
+Gradient  : 0.02923
+Grad Label: cons  
+
+Iteration : 191
+Average   : -0.62198
+Max Val   : -0.59287
+Min Val   : -0.65109
+Start     : 10.42500
+Finish    : 10.45000
+Gradient  : 2.32888
+Grad Label: spos  
+
+Iteration : 192
+Average   : -0.56732
+Max Val   : -0.54280
+Min Val   : -0.59184
+Start     : 10.45000
+Finish    : 10.47500
+Gradient  : 1.96141
+Grad Label: spos  
+
+Iteration : 193
+Average   : -0.51883
+Max Val   : -0.51230
+Min Val   : -0.52535
+Start     : 10.47500
+Finish    : 10.50000
+Gradient  : 0.52209
+Grad Label: spos  
+
+Iteration : 194
+Average   : -0.50527
+Max Val   : -0.49860
+Min Val   : -0.51194
+Start     : 10.50000
+Finish    : 10.52500
+Gradient  : -0.53346
+Grad Label: sneg  
+
+Iteration : 195
+Average   : -0.51564
+Max Val   : -0.50711
+Min Val   : -0.52417
+Start     : 10.52500
+Finish    : 10.55000
+Gradient  : -0.68239
+Grad Label: sneg  
+
+Iteration : 196
+Average   : -0.53231
+Max Val   : -0.52927
+Min Val   : -0.53534
+Start     : 10.55000
+Finish    : 10.57500
+Gradient  : 0.24299
+Grad Label: cons  
+
+Iteration : 197
+Average   : -0.53250
+Max Val   : -0.51268
+Min Val   : -0.55232
+Start     : 10.57500
+Finish    : 10.60000
+Gradient  : -1.58551
+Grad Label: sneg  
+
+Iteration : 198
+Average   : -0.57072
+Max Val   : -0.54929
+Min Val   : -0.59216
+Start     : 10.60000
+Finish    : 10.62500
+Gradient  : -1.71497
+Grad Label: sneg  
+
+Iteration : 199
+Average   : -0.61313
+Max Val   : -0.61146
+Min Val   : -0.61480
+Start     : 10.62500
+Finish    : 10.65000
+Gradient  : 0.13361
+Grad Label: cons  
+
+Iteration : 200
+Average   : -0.60294
+Max Val   : -0.56252
+Min Val   : -0.64336
+Start     : 10.65000
+Finish    : 10.67500
+Gradient  : 3.23377
+Grad Label: spos  
+
+Iteration : 201
+Average   : -0.52072
+Max Val   : -0.49360
+Min Val   : -0.54783
+Start     : 10.67500
+Finish    : 10.70000
+Gradient  : 2.16945
+Grad Label: spos  
+
+Iteration : 202
+Average   : -0.45092
+Max Val   : -0.42383
+Min Val   : -0.47801
+Start     : 10.70000
+Finish    : 10.75000
+Gradient  : 1.08345
+Grad Label: spos  
+
+Iteration : 203
+Average   : -0.41247
+Max Val   : -0.40423
+Min Val   : -0.42071
+Start     : 10.75000
+Finish    : 10.77500
+Gradient  : 0.65913
+Grad Label: spos  
+
+Iteration : 204
+Average   : -0.39609
+Max Val   : -0.39175
+Min Val   : -0.40042
+Start     : 10.77500
+Finish    : 10.80000
+Gradient  : 0.34649
+Grad Label: cons  
+
+Iteration : 205
+Average   : -0.38807
+Max Val   : -0.36188
+Min Val   : -0.41425
+Start     : 10.80000
+Finish    : 10.82500
+Gradient  : -2.09489
+Grad Label: sneg  
+
+Iteration : 206
+Average   : -0.43729
+Max Val   : -0.40070
+Min Val   : -0.47389
+Start     : 10.82500
+Finish    : 10.85000
+Gradient  : -2.92743
+Grad Label: sneg  
+
+Iteration : 207
+Average   : -0.51156
+Max Val   : -0.51119
+Min Val   : -0.51193
+Start     : 10.85000
+Finish    : 10.87500
+Gradient  : 0.02965
+Grad Label: cons  
+
+Iteration : 208
+Average   : -0.50881
+Max Val   : -0.49292
+Min Val   : -0.52469
+Start     : 10.87500
+Finish    : 10.90000
+Gradient  : -1.27067
+Grad Label: sneg  
+
+Iteration : 209
+Average   : -0.56401
+Max Val   : -0.53038
+Min Val   : -0.59765
+Start     : 10.90000
+Finish    : 10.95000
+Gradient  : -1.34549
+Grad Label: sneg  
+
+Iteration : 210
+Average   : -0.60448
+Max Val   : -0.60089
+Min Val   : -0.60808
+Start     : 10.95000
+Finish    : 11.00000
+Gradient  : 0.14368
+Grad Label: cons  
+
+Iteration : 211
+Average   : -0.60222
+Max Val   : -0.58048
+Min Val   : -0.62396
+Start     : 11.00000
+Finish    : 11.02500
+Gradient  : -1.73928
+Grad Label: sneg  
+
+Iteration : 212
+Average   : -0.64458
+Max Val   : -0.63294
+Min Val   : -0.65622
+Start     : 11.02500
+Finish    : 11.05000
+Gradient  : -0.93131
+Grad Label: sneg  
+
+Iteration : 213
+Average   : -0.66917
+Max Val   : -0.66083
+Min Val   : -0.67750
+Start     : 11.05000
+Finish    : 11.07500
+Gradient  : 0.66681
+Grad Label: spos  
+
+Iteration : 214
+Average   : -0.65659
+Max Val   : -0.65566
+Min Val   : -0.65752
+Start     : 11.07500
+Finish    : 11.10000
+Gradient  : -0.07440
+Grad Label: cons  
+
+Iteration : 215
+Average   : -0.65945
+Max Val   : -0.64413
+Min Val   : -0.67477
+Start     : 11.10000
+Finish    : 11.12500
+Gradient  : -1.22558
+Grad Label: sneg  
+
+Iteration : 216
+Average   : -0.69274
+Max Val   : -0.67163
+Min Val   : -0.71386
+Start     : 11.12500
+Finish    : 11.15000
+Gradient  : -1.68935
+Grad Label: sneg  
+
+Iteration : 217
+Average   : -0.74027
+Max Val   : -0.69457
+Min Val   : -0.78597
+Start     : 11.15000
+Finish    : 11.17500
+Gradient  : -3.65627
+Grad Label: sneg  
+
+Iteration : 218
+Average   : -0.83331
+Max Val   : -0.83316
+Min Val   : -0.83345
+Start     : 11.17500
+Finish    : 11.20000
+Gradient  : -0.01168
+Grad Label: cons  
+
+Iteration : 219
+Average   : -0.78260
+Max Val   : -0.71523
+Min Val   : -0.84997
+Start     : 11.20000
+Finish    : 11.25000
+Gradient  : 2.69480
+Grad Label: spos  
+
+Iteration : 220
+Average   : -0.69329
+Max Val   : -0.67596
+Min Val   : -0.71062
+Start     : 11.25000
+Finish    : 11.27500
+Gradient  : -1.38611
+Grad Label: sneg  
+
+Iteration : 221
+Average   : -0.72627
+Max Val   : -0.72500
+Min Val   : -0.72755
+Start     : 11.27500
+Finish    : 11.30000
+Gradient  : -0.10197
+Grad Label: cons  
+
+Iteration : 222
+Average   : -0.72955
+Max Val   : -0.72342
+Min Val   : -0.73569
+Start     : 11.30000
+Finish    : 11.32500
+Gradient  : -0.49089
+Grad Label: sneg  
+
+Iteration : 223
+Average   : -0.73668
+Max Val   : -0.72482
+Min Val   : -0.74854
+Start     : 11.32500
+Finish    : 11.35000
+Gradient  : -0.94875
+Grad Label: sneg  
+
+Iteration : 224
+Average   : -0.75854
+Max Val   : -0.75185
+Min Val   : -0.76523
+Start     : 11.35000
+Finish    : 11.37500
+Gradient  : 0.53538
+Grad Label: spos  
+
+Iteration : 225
+Average   : -0.73215
+Max Val   : -0.72181
+Min Val   : -0.74249
+Start     : 11.37500
+Finish    : 11.42500
+Gradient  : 0.41349
+Grad Label: spos  
+
+Iteration : 226
+Average   : -0.72545
+Max Val   : -0.71154
+Min Val   : -0.73936
+Start     : 11.42500
+Finish    : 11.45000
+Gradient  : 1.11291
+Grad Label: spos  
+
+Iteration : 227
+Average   : -0.67996
+Max Val   : -0.67715
+Min Val   : -0.68277
+Start     : 11.45000
+Finish    : 11.50000
+Gradient  : 0.11230
+Grad Label: cons  
+
+Iteration : 228
+Average   : -0.68673
+Max Val   : -0.65938
+Min Val   : -0.71408
+Start     : 11.50000
+Finish    : 11.52500
+Gradient  : 2.18805
+Grad Label: spos  
+
+Iteration : 229
+Average   : -0.63361
+Max Val   : -0.60777
+Min Val   : -0.65944
+Start     : 11.52500
+Finish    : 11.55000
+Gradient  : 2.06656
+Grad Label: spos  
+
+Iteration : 230
+Average   : -0.57641
+Max Val   : -0.55204
+Min Val   : -0.60078
+Start     : 11.55000
+Finish    : 11.57500
+Gradient  : -1.94961
+Grad Label: sneg  
+
+Iteration : 231
+Average   : -0.62595
+Max Val   : -0.59003
+Min Val   : -0.66187
+Start     : 11.57500
+Finish    : 11.60000
+Gradient  : -2.87368
+Grad Label: sneg  
+
+Iteration : 232
+Average   : -0.70313
+Max Val   : -0.70181
+Min Val   : -0.70444
+Start     : 11.60000
+Finish    : 11.62500
+Gradient  : 0.10532
+Grad Label: cons  
+
+Iteration : 233
+Average   : -0.70226
+Max Val   : -0.69616
+Min Val   : -0.70836
+Start     : 11.62500
+Finish    : 11.65000
+Gradient  : -0.48783
+Grad Label: sneg  
+
+Iteration : 234
+Average   : -0.71459
+Max Val   : -0.68851
+Min Val   : -0.74066
+Start     : 11.65000
+Finish    : 11.67500
+Gradient  : -2.08584
+Grad Label: sneg  
+
+Iteration : 235
+Average   : -0.76287
+Max Val   : -0.75580
+Min Val   : -0.76994
+Start     : 11.67500
+Finish    : 11.70000
+Gradient  : -0.56587
+Grad Label: sneg  
+
+Iteration : 236
+Average   : -0.77985
+Max Val   : -0.77180
+Min Val   : -0.78790
+Start     : 11.70000
+Finish    : 11.72500
+Gradient  : 0.64404
+Grad Label: spos  
+
+Iteration : 237
+Average   : -0.75979
+Max Val   : -0.74746
+Min Val   : -0.77212
+Start     : 11.72500
+Finish    : 11.75000
+Gradient  : 0.98630
+Grad Label: spos  
+
+Iteration : 238
+Average   : -0.73482
+Max Val   : -0.73127
+Min Val   : -0.73838
+Start     : 11.75000
+Finish    : 11.77500
+Gradient  : 0.28462
+Grad Label: cons  
+
+Iteration : 239
+Average   : -0.72967
+Max Val   : -0.71513
+Min Val   : -0.74421
+Start     : 11.77500
+Finish    : 11.80000
+Gradient  : 1.16318
+Grad Label: spos  
+
+Iteration : 240
+Average   : -0.71476
+Max Val   : -0.69478
+Min Val   : -0.73474
+Start     : 11.80000
+Finish    : 11.82500
+Gradient  : 1.59858
+Grad Label: spos  
+
+Iteration : 241
+Average   : -0.66972
+Max Val   : -0.63533
+Min Val   : -0.70411
+Start     : 11.82500
+Finish    : 11.85000
+Gradient  : 2.75146
+Grad Label: spos  
+
+Iteration : 242
+Average   : -0.56626
+Max Val   : -0.55900
+Min Val   : -0.57352
+Start     : 11.85000
+Finish    : 11.87500
+Gradient  : -0.58091
+Grad Label: sneg  
+
+Iteration : 243
+Average   : -0.58717
+Max Val   : -0.56276
+Min Val   : -0.61159
+Start     : 11.87500
+Finish    : 11.90000
+Gradient  : -1.95321
+Grad Label: sneg  
+
+Iteration : 244
+Average   : -0.63693
+Max Val   : -0.62206
+Min Val   : -0.65181
+Start     : 11.90000
+Finish    : 11.92500
+Gradient  : -1.18991
+Grad Label: sneg  
+
+Iteration : 245
+Average   : -0.66199
+Max Val   : -0.64343
+Min Val   : -0.68054
+Start     : 11.92500
+Finish    : 11.95000
+Gradient  : 1.48476
+Grad Label: spos  
+
+Iteration : 246
+Average   : -0.58545
+Max Val   : -0.52933
+Min Val   : -0.64157
+Start     : 11.95000
+Finish    : 12.00000
+Gradient  : 2.24469
+Grad Label: spos  
+
+Iteration : 247
+Average   : -0.51445
+Max Val   : -0.50927
+Min Val   : -0.51964
+Start     : 12.00000
+Finish    : 12.02500
+Gradient  : -0.41480
+Grad Label: sneg  
+
+Iteration : 248
+Average   : -0.51944
+Max Val   : -0.49737
+Min Val   : -0.54151
+Start     : 12.02500
+Finish    : 12.05000
+Gradient  : 1.76530
+Grad Label: spos  
+
+Iteration : 249
+Average   : -0.47772
+Max Val   : -0.47156
+Min Val   : -0.48387
+Start     : 12.05000
+Finish    : 12.07500
+Gradient  : 0.49238
+Grad Label: spos  
+
+Iteration : 250
+Average   : -0.45778
+Max Val   : -0.43954
+Min Val   : -0.47602
+Start     : 12.07500
+Finish    : 12.10000
+Gradient  : 1.45927
+Grad Label: spos  
+
+Iteration : 251
+Average   : -0.42403
+Max Val   : -0.42228
+Min Val   : -0.42578
+Start     : 12.10000
+Finish    : 12.12500
+Gradient  : -0.13993
+Grad Label: cons  
+
+Iteration : 252
+Average   : -0.42908
+Max Val   : -0.42752
+Min Val   : -0.43064
+Start     : 12.12500
+Finish    : 12.15000
+Gradient  : -0.12480
+Grad Label: cons  
+
+Iteration : 253
+Average   : -0.42907
+Max Val   : -0.42789
+Min Val   : -0.43025
+Start     : 12.15000
+Finish    : 12.17500
+Gradient  : -0.09416
+Grad Label: cons  
+
+Iteration : 254
+Average   : -0.43189
+Max Val   : -0.41669
+Min Val   : -0.44710
+Start     : 12.17500
+Finish    : 12.20000
+Gradient  : -1.21626
+Grad Label: sneg  
+
+Iteration : 255
+Average   : -0.47207
+Max Val   : -0.44955
+Min Val   : -0.49459
+Start     : 12.20000
+Finish    : 12.22500
+Gradient  : 1.80162
+Grad Label: spos  
+
+Iteration : 256
+Average   : -0.42018
+Max Val   : -0.41259
+Min Val   : -0.42778
+Start     : 12.22500
+Finish    : 12.25000
+Gradient  : 0.60738
+Grad Label: spos  
+
+Iteration : 257
+Average   : -0.40219
+Max Val   : -0.38595
+Min Val   : -0.41844
+Start     : 12.25000
+Finish    : 12.27500
+Gradient  : -1.29957
+Grad Label: sneg  
+
+Iteration : 258
+Average   : -0.44276
+Max Val   : -0.41702
+Min Val   : -0.46850
+Start     : 12.27500
+Finish    : 12.30000
+Gradient  : 2.05913
+Grad Label: spos  
+
+Iteration : 259
+Average   : -0.38210
+Max Val   : -0.37273
+Min Val   : -0.39148
+Start     : 12.30000
+Finish    : 12.32500
+Gradient  : -0.74965
+Grad Label: sneg  
+
+Iteration : 260
+Average   : -0.40250
+Max Val   : -0.40013
+Min Val   : -0.40486
+Start     : 12.32500
+Finish    : 12.35000
+Gradient  : -0.18939
+Grad Label: cons  
+
+Iteration : 261
+Average   : -0.40560
+Max Val   : -0.39112
+Min Val   : -0.42008
+Start     : 12.35000
+Finish    : 12.37500
+Gradient  : -1.15855
+Grad Label: sneg  
+
+Iteration : 262
+Average   : -0.43920
+Max Val   : -0.43219
+Min Val   : -0.44621
+Start     : 12.37500
+Finish    : 12.40000
+Gradient  : 0.56085
+Grad Label: spos  
+
+Iteration : 263
+Average   : -0.42146
+Max Val   : -0.41555
+Min Val   : -0.42736
+Start     : 12.40000
+Finish    : 12.42500
+Gradient  : -0.47259
+Grad Label: sneg  
+
+Iteration : 264
+Average   : -0.43489
+Max Val   : -0.43175
+Min Val   : -0.43804
+Start     : 12.42500
+Finish    : 12.45000
+Gradient  : -0.25163
+Grad Label: cons  
+
+Iteration : 265
+Average   : -0.44095
+Max Val   : -0.43832
+Min Val   : -0.44357
+Start     : 12.45000
+Finish    : 12.47500
+Gradient  : 0.21008
+Grad Label: cons  
+
+Iteration : 266
+Average   : -0.43259
+Max Val   : -0.40743
+Min Val   : -0.45775
+Start     : 12.47500
+Finish    : 12.50000
+Gradient  : -2.01288
+Grad Label: sneg  
+
+Iteration : 267
+Average   : -0.49298
+Max Val   : -0.48854
+Min Val   : -0.49741
+Start     : 12.50000
+Finish    : 12.52500
+Gradient  : 0.35489
+Grad Label: cons  
+
+Iteration : 268
+Average   : -0.48363
+Max Val   : -0.47303
+Min Val   : -0.49424
+Start     : 12.52500
+Finish    : 12.55000
+Gradient  : 0.84848
+Grad Label: spos  
+
+Iteration : 269
+Average   : -0.45816
+Max Val   : -0.45400
+Min Val   : -0.46232
+Start     : 12.55000
+Finish    : 12.57500
+Gradient  : -0.33283
+Grad Label: cons  
+
+Iteration : 270
+Average   : -0.46700
+Max Val   : -0.45934
+Min Val   : -0.47467
+Start     : 12.57500
+Finish    : 12.60000
+Gradient  : -0.61316
+Grad Label: sneg  
+
+Iteration : 271
+Average   : -0.48382
+Max Val   : -0.47947
+Min Val   : -0.48816
+Start     : 12.60000
+Finish    : 12.65000
+Gradient  : 0.17375
+Grad Label: cons  
+
+Iteration : 272
+Average   : -0.47544
+Max Val   : -0.46662
+Min Val   : -0.48427
+Start     : 12.65000
+Finish    : 12.67500
+Gradient  : 0.70626
+Grad Label: spos  
+
+Iteration : 273
+Average   : -0.45668
+Max Val   : -0.45129
+Min Val   : -0.46207
+Start     : 12.67500
+Finish    : 12.70000
+Gradient  : 0.43139
+Grad Label: spos  
+
+Iteration : 274
+Average   : -0.44848
+Max Val   : -0.42693
+Min Val   : -0.47003
+Start     : 12.70000
+Finish    : 12.75000
+Gradient  : -0.86206
+Grad Label: sneg  
+
+Iteration : 275
+Average   : -0.47994
+Max Val   : -0.45513
+Min Val   : -0.50476
+Start     : 12.75000
+Finish    : 12.77500
+Gradient  : -1.98532
+Grad Label: sneg  
+
+Iteration : 276
+Average   : -0.52896
+Max Val   : -0.52679
+Min Val   : -0.53112
+Start     : 12.77500
+Finish    : 12.80000
+Gradient  : 0.17309
+Grad Label: cons  
+
+Iteration : 277
+Average   : -0.52657
+Max Val   : -0.51787
+Min Val   : -0.53527
+Start     : 12.80000
+Finish    : 12.82500
+Gradient  : 0.69620
+Grad Label: spos  
+
+Iteration : 278
+Average   : -0.51012
+Max Val   : -0.50974
+Min Val   : -0.51049
+Start     : 12.82500
+Finish    : 12.85000
+Gradient  : 0.02982
+Grad Label: cons  
+
+Iteration : 279
+Average   : -0.50655
+Max Val   : -0.49193
+Min Val   : -0.52117
+Start     : 12.85000
+Finish    : 12.87500
+Gradient  : 1.16969
+Grad Label: spos  
+
+Iteration : 280
+Average   : -0.47968
+Max Val   : -0.46005
+Min Val   : -0.49932
+Start     : 12.87500
+Finish    : 12.90000
+Gradient  : 1.57100
+Grad Label: spos  
+
+Iteration : 281
+Average   : -0.44349
+Max Val   : -0.43680
+Min Val   : -0.45017
+Start     : 12.90000
+Finish    : 12.92500
+Gradient  : 0.53470
+Grad Label: spos  
+
+Iteration : 282
+Average   : -0.43002
+Max Val   : -0.42386
+Min Val   : -0.43618
+Start     : 12.92500
+Finish    : 12.95000
+Gradient  : 0.49287
+Grad Label: spos  
+
+Iteration : 283
+Average   : -0.41672
+Max Val   : -0.37785
+Min Val   : -0.45560
+Start     : 12.95000
+Finish    : 12.97500
+Gradient  : -3.11017
+Grad Label: sneg  
+
+Iteration : 284
+Average   : -0.49773
+Max Val   : -0.40436
+Min Val   : -0.59110
+Start     : 12.97500
+Finish    : 13.00000
+Gradient  : -7.46974
+Grad Label: mneg  
+
+Iteration : 285
+Average   : -0.69445
+Max Val   : -0.67604
+Min Val   : -0.71287
+Start     : 13.00000
+Finish    : 13.02500
+Gradient  : 1.47333
+Grad Label: spos  
+
+Iteration : 286
+Average   : -0.67594
+Max Val   : -0.52448
+Min Val   : -0.82739
+Start     : 13.02500
+Finish    : 13.05000
+Gradient  : -12.11644
+Grad Label: bneg  
+
+Iteration : 287
+Average   : -0.94587
+Max Val   : -0.89308
+Min Val   : -0.99866
+Start     : 13.05000
+Finish    : 13.07500
+Gradient  : -4.22306
+Grad Label: sneg  
+
+Iteration : 288
+Average   : -0.94654
+Max Val   : -0.81639
+Min Val   : -1.07669
+Start     : 13.07500
+Finish    : 13.15000
+Gradient  : 3.47075
+Grad Label: spos  
+
+Iteration : 289
+Average   : -0.79530
+Max Val   : -0.78947
+Min Val   : -0.80113
+Start     : 13.15000
+Finish    : 13.17500
+Gradient  : -0.46629
+Grad Label: sneg  
+
+Iteration : 290
+Average   : -0.81243
+Max Val   : -0.77839
+Min Val   : -0.84646
+Start     : 13.17500
+Finish    : 13.20000
+Gradient  : -2.72296
+Grad Label: sneg  
+
+Iteration : 291
+Average   : -0.87813
+Max Val   : -0.83117
+Min Val   : -0.92509
+Start     : 13.20000
+Finish    : 13.22500
+Gradient  : -3.75697
+Grad Label: sneg  
+
+Iteration : 292
+Average   : -0.98262
+Max Val   : -0.98059
+Min Val   : -0.98465
+Start     : 13.22500
+Finish    : 13.25000
+Gradient  : -0.16226
+Grad Label: cons  
+
+Iteration : 293
+Average   : -1.02216
+Max Val   : -0.97355
+Min Val   : -1.07077
+Start     : 13.25000
+Finish    : 13.30000
+Gradient  : -1.94444
+Grad Label: sneg  
+
+Iteration : 294
+Average   : -1.08323
+Max Val   : -1.05249
+Min Val   : -1.11398
+Start     : 13.30000
+Finish    : 13.32500
+Gradient  : 2.45942
+Grad Label: spos  
+
+Iteration : 295
+Average   : -1.04256
+Max Val   : -0.97823
+Min Val   : -1.10689
+Start     : 13.32500
+Finish    : 13.35000
+Gradient  : -5.14654
+Grad Label: mneg  
+
+Iteration : 296
+Average   : -1.18836
+Max Val   : -1.12389
+Min Val   : -1.25282
+Start     : 13.35000
+Finish    : 13.37500
+Gradient  : 5.15743
+Grad Label: mpos  
+
+Iteration : 297
+Average   : -0.81901
+Max Val   : -0.61689
+Min Val   : -1.02113
+Start     : 13.37500
+Finish    : 13.50000
+Gradient  : 3.23388
+Grad Label: spos  
+
+Iteration : 298
+Average   : -0.83731
+Max Val   : -0.66195
+Min Val   : -1.01267
+Start     : 13.50000
+Finish    : 13.60000
+Gradient  : -3.50718
+Grad Label: sneg  
+
+Iteration : 299
+Average   : -0.98782
+Max Val   : -0.95451
+Min Val   : -1.02114
+Start     : 13.60000
+Finish    : 13.62500
+Gradient  : -2.66531
+Grad Label: sneg  
+
+Iteration : 300
+Average   : -1.02359
+Max Val   : -0.93208
+Min Val   : -1.11511
+Start     : 13.62500
+Finish    : 13.65000
+Gradient  : -7.32129
+Grad Label: mneg  
+
+Iteration : 301
+Average   : -1.17542
+Max Val   : -1.10145
+Min Val   : -1.24939
+Start     : 13.65000
+Finish    : 13.67500
+Gradient  : 5.91784
+Grad Label: mpos  
+
+Iteration : 302
+Average   : -1.10933
+Max Val   : -1.06070
+Min Val   : -1.15795
+Start     : 13.67500
+Finish    : 13.70000
+Gradient  : 3.88968
+Grad Label: spos  
+
+Iteration : 303
+Average   : -1.24283
+Max Val   : -0.99162
+Min Val   : -1.49404
+Start     : 13.70000
+Finish    : 13.75000
+Gradient  : -10.04837
+Grad Label: bneg  
+
+Iteration : 304
+Average   : -1.42117
+Max Val   : -1.18729
+Min Val   : -1.65505
+Start     : 13.75000
+Finish    : 13.80000
+Gradient  : 9.35510
+Grad Label: bpos  
+
+Iteration : 305
+Average   : -1.10219
+Max Val   : -1.08677
+Min Val   : -1.11761
+Start     : 13.80000
+Finish    : 13.82500
+Gradient  : 1.23344
+Grad Label: spos  
+
+Iteration : 306
+Average   : -0.92175
+Max Val   : -0.78620
+Min Val   : -1.05729
+Start     : 13.82500
+Finish    : 14.12500
+Gradient  : 0.90365
+Grad Label: spos  
+
+Iteration : 307
+Average   : -0.90484
+Max Val   : -0.74106
+Min Val   : -1.06861
+Start     : 14.12500
+Finish    : 14.15000
+Gradient  : -13.10169
+Grad Label: nimp  
+
+Iteration : 308
+Average   : -1.21570
+Max Val   : -1.14793
+Min Val   : -1.28348
+Start     : 14.15000
+Finish    : 14.17500
+Gradient  : -5.42203
+Grad Label: mneg  
+
+Iteration : 309
+Average   : -1.34158
+Max Val   : -1.33807
+Min Val   : -1.34510
+Start     : 14.17500
+Finish    : 14.20000
+Gradient  : -0.28135
+Grad Label: cons  
+
+Iteration : 310
+Average   : -1.35402
+Max Val   : -1.33997
+Min Val   : -1.36807
+Start     : 14.20000
+Finish    : 14.25000
+Gradient  : 0.56191
+Grad Label: spos  
+
+Iteration : 311
+Average   : -1.28310
+Max Val   : -1.22560
+Min Val   : -1.34061
+Start     : 14.25000
+Finish    : 14.30000
+Gradient  : 2.30021
+Grad Label: spos  
+
+Iteration : 312
+Average   : -1.20727
+Max Val   : -1.14038
+Min Val   : -1.27417
+Start     : 14.30000
+Finish    : 14.32500
+Gradient  : -5.35182
+Grad Label: mneg  
+
+Iteration : 313
+Average   : -1.34394
+Max Val   : -1.29975
+Min Val   : -1.38812
+Start     : 14.32500
+Finish    : 14.35000
+Gradient  : -3.53476
+Grad Label: sneg  
+
+Iteration : 314
+Average   : -1.41662
+Max Val   : -1.34637
+Min Val   : -1.48687
+Start     : 14.35000
+Finish    : 14.37500
+Gradient  : 5.62022
+Grad Label: mpos  
+
+Iteration : 315
+Average   : -1.01484
+Max Val   : -0.74713
+Min Val   : -1.28255
+Start     : 14.37500
+Finish    : 14.47500
+Gradient  : 5.35415
+Grad Label: mpos  
+
+Iteration : 316
+Average   : -0.74267
+Max Val   : -0.72697
+Min Val   : -0.75837
+Start     : 14.47500
+Finish    : 14.50000
+Gradient  : -1.25583
+Grad Label: sneg  
+
+Iteration : 317
+Average   : -0.77666
+Max Val   : -0.72282
+Min Val   : -0.83051
+Start     : 14.50000
+Finish    : 14.52500
+Gradient  : -4.30727
+Grad Label: sneg  
+
+Iteration : 318
+Average   : -0.89146
+Max Val   : -0.86060
+Min Val   : -0.92231
+Start     : 14.52500
+Finish    : 14.55000
+Gradient  : 2.46855
+Grad Label: spos  
+
+Iteration : 319
+Average   : -0.82873
+Max Val   : -0.77587
+Min Val   : -0.88159
+Start     : 14.55000
+Finish    : 14.57500
+Gradient  : 4.22853
+Grad Label: spos  
+
+Iteration : 320
+Average   : -0.72089
+Max Val   : -0.71085
+Min Val   : -0.73094
+Start     : 14.57500
+Finish    : 14.60000
+Gradient  : -0.80373
+Grad Label: sneg  
+
+Iteration : 321
+Average   : -0.74131
+Max Val   : -0.73034
+Min Val   : -0.75227
+Start     : 14.60000
+Finish    : 14.62500
+Gradient  : -0.87732
+Grad Label: sneg  
+
+Iteration : 322
+Average   : -0.77012
+Max Val   : -0.73950
+Min Val   : -0.80074
+Start     : 14.62500
+Finish    : 14.65000
+Gradient  : -2.44935
+Grad Label: sneg  
+
+Iteration : 323
+Average   : -0.82790
+Max Val   : -0.80750
+Min Val   : -0.84830
+Start     : 14.65000
+Finish    : 14.67500
+Gradient  : 1.63193
+Grad Label: spos  
+
+Iteration : 324
+Average   : -0.79190
+Max Val   : -0.72188
+Min Val   : -0.86192
+Start     : 14.67500
+Finish    : 14.70000
+Gradient  : 5.60161
+Grad Label: mpos  
+
+Iteration : 325
+Average   : -0.67177
+Max Val   : -0.57844
+Min Val   : -0.76511
+Start     : 14.70000
+Finish    : 14.72500
+Gradient  : -7.46662
+Grad Label: mneg  
+
+Iteration : 326
+Average   : -1.11330
+Max Val   : -0.85583
+Min Val   : -1.37077
+Start     : 14.72500
+Finish    : 14.80000
+Gradient  : -6.86588
+Grad Label: mneg  
+
+Iteration : 327
+Average   : -1.30197
+Max Val   : -1.20374
+Min Val   : -1.40020
+Start     : 14.80000
+Finish    : 14.85000
+Gradient  : 3.92924
+Grad Label: spos  
+
+Iteration : 328
+Average   : -1.18388
+Max Val   : -1.06126
+Min Val   : -1.30650
+Start     : 14.85000
+Finish    : 14.87500
+Gradient  : -9.80976
+Grad Label: bneg  
+
+Iteration : 329
+Average   : -1.42172
+Max Val   : -1.39163
+Min Val   : -1.45181
+Start     : 14.87500
+Finish    : 14.90000
+Gradient  : 2.40729
+Grad Label: spos  
+
+Iteration : 330
+Average   : -1.28591
+Max Val   : -1.25488
+Min Val   : -1.31694
+Start     : 14.90000
+Finish    : 14.95000
+Gradient  : 1.24121
+Grad Label: spos  
+
+Iteration : 331
+Average   : -1.28112
+Max Val   : -1.22031
+Min Val   : -1.34192
+Start     : 14.95000
+Finish    : 14.97500
+Gradient  : -4.86440
+Grad Label: mneg  
+
+Iteration : 332
+Average   : -1.40131
+Max Val   : -1.38565
+Min Val   : -1.41697
+Start     : 14.97500
+Finish    : 15.00000
+Gradient  : -1.25307
+Grad Label: sneg  
+
+Iteration : 333
+Average   : -1.43358
+Max Val   : -1.40496
+Min Val   : -1.46221
+Start     : 15.00000
+Finish    : 15.02500
+Gradient  : 2.29018
+Grad Label: spos  
+
+Iteration : 334
+Average   : -1.38450
+Max Val   : -1.33531
+Min Val   : -1.43368
+Start     : 15.02500
+Finish    : 15.05000
+Gradient  : 3.93456
+Grad Label: spos  
+
+Iteration : 335
+Average   : -1.26331
+Max Val   : -1.21214
+Min Val   : -1.31448
+Start     : 15.05000
+Finish    : 15.07500
+Gradient  : 4.09365
+Grad Label: spos  
+
+Iteration : 336
+Average   : -1.16111
+Max Val   : -1.11596
+Min Val   : -1.20625
+Start     : 15.07500
+Finish    : 15.10000
+Gradient  : 3.61149
+Grad Label: spos  
+
+Iteration : 337
+Average   : -1.07722
+Max Val   : -0.99342
+Min Val   : -1.16102
+Start     : 15.10000
+Finish    : 15.12500
+Gradient  : -6.70405
+Grad Label: mneg  
+
+Iteration : 338
+Average   : -1.23688
+Max Val   : -1.12711
+Min Val   : -1.34666
+Start     : 15.12500
+Finish    : 15.15000
+Gradient  : -8.78209
+Grad Label: bneg  
+
+Iteration : 339
+Average   : -1.44960
+Max Val   : -1.41500
+Min Val   : -1.48420
+Start     : 15.15000
+Finish    : 15.17500
+Gradient  : -2.76778
+Grad Label: sneg  
+
+Iteration : 340
+Average   : -1.51936
+Max Val   : -1.46077
+Min Val   : -1.57795
+Start     : 15.17500
+Finish    : 15.20000
+Gradient  : -4.68724
+Grad Label: mneg  
+
+Iteration : 341
+Average   : -1.62978
+Max Val   : -1.59839
+Min Val   : -1.66118
+Start     : 15.20000
+Finish    : 15.22500
+Gradient  : -2.51167
+Grad Label: sneg  
+
+Iteration : 342
+Average   : -1.70173
+Max Val   : -1.69279
+Min Val   : -1.71068
+Start     : 15.22500
+Finish    : 15.25000
+Gradient  : -0.71567
+Grad Label: sneg  
+
+Iteration : 343
+Average   : -1.72838
+Max Val   : -1.70718
+Min Val   : -1.74958
+Start     : 15.25000
+Finish    : 15.27500
+Gradient  : 1.69571
+Grad Label: spos  
+
+Iteration : 344
+Average   : -1.69162
+Max Val   : -1.62878
+Min Val   : -1.75447
+Start     : 15.27500
+Finish    : 15.30000
+Gradient  : 5.02760
+Grad Label: mpos  
+
+Iteration : 345
+Average   : -1.57224
+Max Val   : -1.52791
+Min Val   : -1.61657
+Start     : 15.30000
+Finish    : 15.32500
+Gradient  : 3.54671
+Grad Label: spos  
+
+Iteration : 346
+Average   : -1.48988
+Max Val   : -1.43838
+Min Val   : -1.54139
+Start     : 15.32500
+Finish    : 15.35000
+Gradient  : -4.12064
+Grad Label: sneg  
+
+Iteration : 347
+Average   : -1.58532
+Max Val   : -1.58497
+Min Val   : -1.58567
+Start     : 15.35000
+Finish    : 15.37500
+Gradient  : -0.02787
+Grad Label: cons  
+
+Iteration : 348
+Average   : -1.59353
+Max Val   : -1.58728
+Min Val   : -1.59979
+Start     : 15.37500
+Finish    : 15.40000
+Gradient  : -0.50031
+Grad Label: sneg  
+
+Iteration : 349
+Average   : -1.57930
+Max Val   : -1.55962
+Min Val   : -1.59899
+Start     : 15.40000
+Finish    : 15.42500
+Gradient  : -1.57460
+Grad Label: sneg  
+
+Iteration : 350
+Average   : -1.62465
+Max Val   : -1.62071
+Min Val   : -1.62859
+Start     : 15.42500
+Finish    : 15.45000
+Gradient  : 0.31524
+Grad Label: cons  
+
+Iteration : 351
+Average   : -1.64606
+Max Val   : -1.61817
+Min Val   : -1.67395
+Start     : 15.45000
+Finish    : 15.47500
+Gradient  : -2.23116
+Grad Label: sneg  
+
+Iteration : 352
+Average   : -1.66493
+Max Val   : -1.65264
+Min Val   : -1.67721
+Start     : 15.47500
+Finish    : 15.50000
+Gradient  : -0.98300
+Grad Label: sneg  
+
+Iteration : 353
+Average   : -1.71356
+Max Val   : -1.70104
+Min Val   : -1.72608
+Start     : 15.50000
+Finish    : 15.52500
+Gradient  : 1.00173
+Grad Label: spos  
+
+Iteration : 354
+Average   : -1.64415
+Max Val   : -1.64289
+Min Val   : -1.64541
+Start     : 15.52500
+Finish    : 15.55000
+Gradient  : 0.10067
+Grad Label: cons  
+
+Iteration : 355
+Average   : -1.67236
+Max Val   : -1.64980
+Min Val   : -1.69492
+Start     : 15.55000
+Finish    : 15.57500
+Gradient  : 1.80493
+Grad Label: spos  
+
+Iteration : 356
+Average   : -1.61233
+Max Val   : -1.60109
+Min Val   : -1.62358
+Start     : 15.57500
+Finish    : 15.60000
+Gradient  : -0.89978
+Grad Label: sneg  
+
+Iteration : 357
+Average   : -1.65225
+Max Val   : -1.64528
+Min Val   : -1.65923
+Start     : 15.60000
+Finish    : 15.62500
+Gradient  : -0.55802
+Grad Label: sneg  
+
+Iteration : 358
+Average   : -1.63658
+Max Val   : -1.58973
+Min Val   : -1.68344
+Start     : 15.62500
+Finish    : 15.65000
+Gradient  : -3.74838
+Grad Label: sneg  
+
+Iteration : 359
+Average   : -1.74507
+Max Val   : -1.74242
+Min Val   : -1.74771
+Start     : 15.65000
+Finish    : 15.67500
+Gradient  : 0.21162
+Grad Label: cons  
+
+Iteration : 360
+Average   : -1.68203
+Max Val   : -1.59070
+Min Val   : -1.77336
+Start     : 15.67500
+Finish    : 15.70000
+Gradient  : 7.30638
+Grad Label: mpos  
+
+Iteration : 361
+Average   : -1.55091
+Max Val   : -1.48638
+Min Val   : -1.61545
+Start     : 15.70000
+Finish    : 15.72500
+Gradient  : 5.16262
+Grad Label: mpos  
+
+Iteration : 362
+Average   : -1.36041
+Max Val   : -1.32127
+Min Val   : -1.39955
+Start     : 15.72500
+Finish    : 15.75000
+Gradient  : 3.13129
+Grad Label: spos  
+
+Iteration : 363
+Average   : -1.35604
+Max Val   : -1.34833
+Min Val   : -1.36376
+Start     : 15.75000
+Finish    : 15.77500
+Gradient  : 0.61715
+Grad Label: spos  
+
+Iteration : 364
+Average   : -1.25038
+Max Val   : -1.19863
+Min Val   : -1.30214
+Start     : 15.77500
+Finish    : 15.80000
+Gradient  : 4.14015
+Grad Label: spos  
+
+Iteration : 365
+Average   : -1.26132
+Max Val   : -1.25866
+Min Val   : -1.26398
+Start     : 15.80000
+Finish    : 15.82500
+Gradient  : -0.21289
+Grad Label: cons  
+
+Iteration : 366
+Average   : -1.12445
+Max Val   : -1.12161
+Min Val   : -1.12728
+Start     : 15.82500
+Finish    : 15.85000
+Gradient  : -0.22678
+Grad Label: cons  
+
+Iteration : 367
+Average   : -1.28646
+Max Val   : -1.23111
+Min Val   : -1.34182
+Start     : 15.85000
+Finish    : 15.87500
+Gradient  : -4.42817
+Grad Label: mneg  
+
+Iteration : 368
+Average   : -1.18497
+Max Val   : -0.98679
+Min Val   : -1.38315
+Start     : 15.87500
+Finish    : 15.90000
+Gradient  : -15.85418
+Grad Label: nimp  
+
+Iteration : 369
+Average   : -1.61276
+Max Val   : -1.45491
+Min Val   : -1.77061
+Start     : 15.90000
+Finish    : 15.92500
+Gradient  : -12.62781
+Grad Label: nimp  
+
+Iteration : 370
+Average   : -1.97257
+Max Val   : -1.86846
+Min Val   : -2.07669
+Start     : 15.92500
+Finish    : 15.95000
+Gradient  : 8.32936
+Grad Label: mpos  
+
+Iteration : 371
+Average   : -1.76424
+Max Val   : -1.68660
+Min Val   : -1.84189
+Start     : 15.95000
+Finish    : 15.97500
+Gradient  : 6.21149
+Grad Label: mpos  
+

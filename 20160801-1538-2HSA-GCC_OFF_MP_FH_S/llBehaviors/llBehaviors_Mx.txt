@@ -1,0 +1,95 @@
+Iteration     : 1
+CompLabel     : FX
+averageVal1   : 0.02244
+averageVal2   : 0.02244
+AVG_MAG_VAL   : 0.02244
+rmsVal1       : 0.09067
+rmsVal2       : 0.09067
+AVG_RMS_Val   : 0.09067
+amplitudeVal1 : 0.03344
+amplitudeVal2 : 0.03344
+AVG_AMP_VAL   : 0.03344
+Label 1       : bneg
+Label 2       : none
+t1Start       : 0.00000
+t1End         : 13.82500
+t2Start       : 10.20000
+t2End         : 13.82500
+tAvgIndex     : 6.91250
+
+Iteration     : 2
+CompLabel     : AL
+averageVal1   : 0.01854
+averageVal2   : 0.01854
+AVG_MAG_VAL   : 0.01854
+rmsVal1       : 0.02569
+rmsVal2       : 0.02569
+AVG_RMS_Val   : 0.02569
+amplitudeVal1 : 0.00015
+amplitudeVal2 : 0.00015
+AVG_AMP_VAL   : 0.00015
+Label 1       : bpos
+Label 2       : none
+t1Start       : 13.82500
+t1End         : 14.00000
+t2Start       : 14.00000
+t2End         : 14.07500
+tAvgIndex     : 13.95000
+
+Iteration     : 3
+CompLabel     : FX
+averageVal1   : 0.01714
+averageVal2   : 0.00324
+AVG_MAG_VAL   : 0.00372
+rmsVal1       : 0.02240
+rmsVal2       : 0.02240
+AVG_RMS_Val   : 0.09636
+amplitudeVal1 : 0.05083
+amplitudeVal2 : 0.02000
+AVG_AMP_VAL   : 0.10073
+Label 1       : bpos
+Label 2       : bpos
+t1Start       : 14.07500
+t1End         : 14.90000
+t2Start       : 14.90000
+t2End         : 15.02500
+tAvgIndex     : 14.55000
+
+Iteration     : 4
+CompLabel     : AL
+averageVal1   : -0.00045
+averageVal2   : -0.00045
+AVG_MAG_VAL   : -0.00045
+rmsVal1       : 0.00858
+rmsVal2       : 0.00858
+AVG_RMS_Val   : 0.00858
+amplitudeVal1 : 0.01918
+amplitudeVal2 : 0.01918
+AVG_AMP_VAL   : 0.01918
+Label 1       : bpos
+Label 2       : none
+t1Start       : 15.02500
+t1End         : 15.19800
+t2Start       : 15.19900
+t2End         : 15.37500
+tAvgIndex     : 15.20000
+
+Iteration     : 5
+CompLabel     : FX
+averageVal1   : 0.00680
+averageVal2   : 0.00361
+AVG_MAG_VAL   : 0.00682
+rmsVal1       : 0.01551
+rmsVal2       : 0.01551
+AVG_RMS_Val   : 0.02591
+amplitudeVal1 : 0.01095
+amplitudeVal2 : 0.04148
+AVG_AMP_VAL   : 0.04148
+Label 1       : bpos
+Label 2       : bpos
+t1Start       : 15.37500
+t1End         : 15.97500
+t2Start       : 15.97500
+t2End         : 16.53000
+tAvgIndex     : 15.95250
+
