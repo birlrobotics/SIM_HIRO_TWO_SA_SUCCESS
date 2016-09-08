@@ -1,3 +1,12 @@
+Iteration : 1
+Average   : 0.32603
+Max Val   : 0.51696
+Min Val   : 0.13509
+Start     : 0.00000
+Finish    : 0.12500
+Gradient  : 3.05496
+Grad Label: pimp  
+
 Iteration : 2
 Average   : 0.49606
 Max Val   : 0.50225
@@ -2780,19 +2789,10 @@ Gradient  : 2.30960
 Grad Label: pimp  
 
 Iteration : 311
-Average   : 0.98280
-Max Val   : 1.02218
-Min Val   : 0.94343
-Start     : 16.60000
-Finish    : 16.62500
-Gradient  : 3.14983
-Grad Label: pimp  
-
-Iteration : 312
-Average   : 1.01108
+Average   : 0.98430
 Max Val   : 1.12953
-Min Val   : 0.89263
-Start     : 16.62500
+Min Val   : 0.83907
+Start     : 16.60000
 Finish    : 16.63000
 Gradient  : 3.14983
 Grad Label: pimp  

@@ -1,3 +1,12 @@
+Iteration : 1
+Average   : -0.01312
+Max Val   : -0.00448
+Min Val   : -0.02176
+Start     : 0.00000
+Finish    : 0.15000
+Gradient  : -0.11524
+Grad Label: sneg  
+
 Iteration : 2
 Average   : -0.02312
 Max Val   : -0.02073
@@ -1259,19 +1268,10 @@ Gradient  : -0.92346
 Grad Label: sneg  
 
 Iteration : 142
-Average   : 0.26054
-Max Val   : 0.26171
-Min Val   : 0.25938
-Start     : 15.77500
-Finish    : 15.80000
-Gradient  : -0.09314
-Grad Label: sneg  
-
-Iteration : 143
 Average   : 0.22070
 Max Val   : 0.57671
 Min Val   : -0.13531
-Start     : 15.80000
+Start     : 15.77500
 Finish    : 15.81500
 Gradient  : -0.09314
 Grad Label: sneg  

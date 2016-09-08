@@ -9,8 +9,8 @@ AVG_RMS_Val   : 0.43563
 amplitudeVal1 : 0.09540
 amplitudeVal2 : 0.04027
 AVG_AMP_VAL   : 0.17755
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 0.00000
 t1End         : 2.85000
 t2Start       : 2.85000
@@ -28,8 +28,8 @@ AVG_RMS_Val   : 2.47784
 amplitudeVal1 : 2.06165
 amplitudeVal2 : 2.06165
 AVG_AMP_VAL   : 2.06165
-Label 1       : bpos
-Label 2       : none
+Label 1       : a
+Label 2       : z
 t1Start       : 3.92500
 t1End         : 4.02500
 t2Start       : 4.02500
@@ -47,8 +47,8 @@ AVG_RMS_Val   : 0.54933
 amplitudeVal1 : 0.21250
 amplitudeVal2 : 0.17270
 AVG_AMP_VAL   : 0.21250
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 4.17500
 t1End         : 5.07500
 t2Start       : 5.07500
@@ -66,8 +66,8 @@ AVG_RMS_Val   : 0.50767
 amplitudeVal1 : 0.02140
 amplitudeVal2 : 0.02140
 AVG_AMP_VAL   : 0.02140
-Label 1       : bpos
-Label 2       : none
+Label 1       : a
+Label 2       : z
 t1Start       : 5.37500
 t1End         : 5.42500
 t2Start       : 5.42500
@@ -85,8 +85,8 @@ AVG_RMS_Val   : 1.30325
 amplitudeVal1 : 0.08786
 amplitudeVal2 : 0.20937
 AVG_AMP_VAL   : 0.29496
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 5.50000
 t1End         : 10.42500
 t2Start       : 10.42500
@@ -104,8 +104,8 @@ AVG_RMS_Val   : 6.00110
 amplitudeVal1 : 5.51480
 amplitudeVal2 : 5.51480
 AVG_AMP_VAL   : 5.51480
-Label 1       : cons
-Label 2       : none
+Label 1       : c
+Label 2       : z
 t1Start       : 11.85000
 t1End         : 11.92500
 t2Start       : 11.92500
@@ -123,8 +123,8 @@ AVG_RMS_Val   : 1.33694
 amplitudeVal1 : 0.08821
 amplitudeVal2 : 0.01420
 AVG_AMP_VAL   : 0.19677
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 12.05000
 t1End         : 13.10000
 t2Start       : 13.10000
@@ -142,8 +142,8 @@ AVG_RMS_Val   : 9.26855
 amplitudeVal1 : 5.71571
 amplitudeVal2 : 8.75134
 AVG_AMP_VAL   : 8.75134
-Label 1       : mneg
-Label 2       : sneg
+Label 1       : pc
+Label 2       : nc
 t1Start       : 14.10000
 t1End         : 14.20000
 t2Start       : 14.20000
@@ -161,8 +161,8 @@ AVG_RMS_Val   : 6.43915
 amplitudeVal1 : 5.42949
 amplitudeVal2 : 5.42949
 AVG_AMP_VAL   : 5.42949
-Label 1       : mpos
-Label 2       : none
+Label 1       : i
+Label 2       : z
 t1Start       : 14.42500
 t1End         : 14.42500
 t2Start       : 14.80000
@@ -180,8 +180,8 @@ AVG_RMS_Val   : 6.33468
 amplitudeVal1 : 0.02291
 amplitudeVal2 : 0.96197
 AVG_AMP_VAL   : 0.96197
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 14.80000
 t1End         : 15.07500
 t2Start       : 15.07500
@@ -199,8 +199,8 @@ AVG_RMS_Val   : 5.54342
 amplitudeVal1 : 0.08797
 amplitudeVal2 : 0.08797
 AVG_AMP_VAL   : 0.08797
-Label 1       : bpos
-Label 2       : none
+Label 1       : a
+Label 2       : z
 t1Start       : 15.50000
 t1End         : 15.52500
 t2Start       : 15.52500
@@ -218,8 +218,8 @@ AVG_RMS_Val   : 5.61058
 amplitudeVal1 : 0.60397
 amplitudeVal2 : 0.60397
 AVG_AMP_VAL   : 0.60397
-Label 1       : spos
-Label 2       : none
+Label 1       : d
+Label 2       : z
 t1Start       : 15.60000
 t1End         : 15.60000
 t2Start       : 15.65000
@@ -237,8 +237,8 @@ AVG_RMS_Val   : 5.72503
 amplitudeVal1 : 3.00445
 amplitudeVal2 : 3.00445
 AVG_AMP_VAL   : 3.00445
-Label 1       : sneg
-Label 2       : none
+Label 1       : nc
+Label 2       : z
 t1Start       : 15.65000
 t1End         : 15.67500
 t2Start       : 15.67500
@@ -247,17 +247,17 @@ tAvgIndex     : 15.70000
 
 Iteration     : 14
 CompLabel     : FX
-averageVal1   : 1.05443
-averageVal2   : 1.05443
-AVG_MAG_VAL   : 1.05443
+averageVal1   : 1.06262
+averageVal2   : 1.06262
+AVG_MAG_VAL   : 1.06262
 rmsVal1       : 2.72223
 rmsVal2       : 2.72223
 AVG_RMS_Val   : 2.72223
 amplitudeVal1 : 1.48660
 amplitudeVal2 : 1.48660
 AVG_AMP_VAL   : 1.48660
-Label 1       : bneg
-Label 2       : bneg
+Label 1       : k
+Label 2       : k
 t1Start       : 15.75000
 t1End         : 16.63000
 t2Start       : 15.75000

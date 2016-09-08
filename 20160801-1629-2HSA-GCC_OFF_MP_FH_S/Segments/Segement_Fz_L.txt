@@ -1,3 +1,12 @@
+Iteration : 1
+Average   : -0.38578
+Max Val   : -0.17873
+Min Val   : -0.59283
+Start     : 0.00000
+Finish    : 0.12500
+Gradient  : -3.31276
+Grad Label: sneg  
+
 Iteration : 2
 Average   : -0.63228
 Max Val   : -0.59574
@@ -2771,19 +2780,10 @@ Gradient  : 0.06842
 Grad Label: cons  
 
 Iteration : 310
-Average   : -0.96975
-Max Val   : -0.88914
-Min Val   : -1.05035
+Average   : -0.94640
+Max Val   : -0.51301
+Min Val   : -1.37980
 Start     : 16.35000
-Finish    : 16.37500
-Gradient  : 6.44811
-Grad Label: mpos  
-
-Iteration : 311
-Average   : -0.89404
-Max Val   : -0.56286
-Min Val   : -1.22522
-Start     : 16.37500
 Finish    : 16.38500
 Gradient  : 6.44811
 Grad Label: mpos  

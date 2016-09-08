@@ -9,8 +9,8 @@ AVG_RMS_Val   : 0.02367
 amplitudeVal1 : 0.02262
 amplitudeVal2 : 0.00720
 AVG_AMP_VAL   : 0.03547
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 0.00000
 t1End         : 12.12500
 t2Start       : 12.12500
@@ -28,8 +28,8 @@ AVG_RMS_Val   : 0.00020
 amplitudeVal1 : 0.00635
 amplitudeVal2 : 0.00635
 AVG_AMP_VAL   : 0.00635
-Label 1       : mpos
-Label 2       : none
+Label 1       : i
+Label 2       : z
 t1Start       : 12.32500
 t1End         : 12.72500
 t2Start       : 12.45000
@@ -47,8 +47,8 @@ AVG_RMS_Val   : 0.01923
 amplitudeVal1 : 0.01549
 amplitudeVal2 : 0.02531
 AVG_AMP_VAL   : 0.02531
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 12.72500
 t1End         : 12.95000
 t2Start       : 12.95000
@@ -66,8 +66,8 @@ AVG_RMS_Val   : 0.03242
 amplitudeVal1 : 0.02794
 amplitudeVal2 : 0.02794
 AVG_AMP_VAL   : 0.02794
-Label 1       : bpos
-Label 2       : none
+Label 1       : a
+Label 2       : z
 t1Start       : 13.95000
 t1End         : 14.07500
 t2Start       : 14.07500
@@ -85,8 +85,8 @@ AVG_RMS_Val   : 0.01417
 amplitudeVal1 : 0.09336
 amplitudeVal2 : 0.09336
 AVG_AMP_VAL   : 0.09336
-Label 1       : bneg
-Label 2       : none
+Label 1       : k
+Label 2       : z
 t1Start       : 14.22500
 t1End         : 14.37500
 t2Start       : 14.30000
@@ -104,8 +104,8 @@ AVG_RMS_Val   : 0.01913
 amplitudeVal1 : 0.06518
 amplitudeVal2 : 0.06518
 AVG_AMP_VAL   : 0.06518
-Label 1       : bpos
-Label 2       : none
+Label 1       : a
+Label 2       : z
 t1Start       : 14.37500
 t1End         : 15.02500
 t2Start       : 14.92500
@@ -115,16 +115,16 @@ tAvgIndex     : 14.70000
 Iteration     : 7
 CompLabel     : FX
 averageVal1   : -0.03022
-averageVal2   : -0.02106
-AVG_MAG_VAL   : -0.02452
+averageVal2   : -0.01907
+AVG_MAG_VAL   : -0.02402
 rmsVal1       : -0.02044
 rmsVal2       : -0.02044
 AVG_RMS_Val   : 0.01138
 amplitudeVal1 : 0.01441
-amplitudeVal2 : 0.02107
+amplitudeVal2 : 0.01623
 AVG_AMP_VAL   : 0.04643
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 15.02500
 t1End         : 15.10000
 t2Start       : 15.10000

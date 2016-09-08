@@ -9,8 +9,8 @@ AVG_RMS_Val   : 5.26002
 amplitudeVal1 : 0.34069
 amplitudeVal2 : 3.96934
 AVG_AMP_VAL   : 3.96934
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 0.00000
 t1End         : 3.92500
 t2Start       : 3.92500
@@ -28,8 +28,8 @@ AVG_RMS_Val   : 5.33287
 amplitudeVal1 : 0.72153
 amplitudeVal2 : 0.72153
 AVG_AMP_VAL   : 0.72153
-Label 1       : bpos
-Label 2       : none
+Label 1       : a
+Label 2       : z
 t1Start       : 14.70000
 t1End         : 15.02500
 t2Start       : 14.95000
@@ -47,8 +47,8 @@ AVG_RMS_Val   : 7.81086
 amplitudeVal1 : 1.79070
 amplitudeVal2 : 3.17800
 AVG_AMP_VAL   : 3.17800
-Label 1       : mneg
-Label 2       : sneg
+Label 1       : pc
+Label 2       : nc
 t1Start       : 15.02500
 t1End         : 15.12500
 t2Start       : 15.12500
@@ -66,8 +66,8 @@ AVG_RMS_Val   : 4.70956
 amplitudeVal1 : 0.67735
 amplitudeVal2 : 0.67735
 AVG_AMP_VAL   : 0.67735
-Label 1       : spos
-Label 2       : none
+Label 1       : d
+Label 2       : z
 t1Start       : 15.22500
 t1End         : 15.25000
 t2Start       : 15.25000
@@ -85,8 +85,8 @@ AVG_RMS_Val   : 5.37199
 amplitudeVal1 : 1.50252
 amplitudeVal2 : 1.50252
 AVG_AMP_VAL   : 1.50252
-Label 1       : bpos
-Label 2       : none
+Label 1       : a
+Label 2       : z
 t1Start       : 15.27500
 t1End         : 15.62500
 t2Start       : 15.32500
@@ -104,8 +104,8 @@ AVG_RMS_Val   : 5.66607
 amplitudeVal1 : 1.58297
 amplitudeVal2 : 1.58297
 AVG_AMP_VAL   : 1.58297
-Label 1       : sneg
-Label 2       : none
+Label 1       : nc
+Label 2       : z
 t1Start       : 15.62500
 t1End         : 15.65000
 t2Start       : 15.65000
@@ -114,17 +114,17 @@ tAvgIndex     : 15.65000
 
 Iteration     : 7
 CompLabel     : PL
-averageVal1   : 2.89681
-averageVal2   : 2.89681
-AVG_MAG_VAL   : 2.89681
+averageVal1   : 2.54628
+averageVal2   : 2.54628
+AVG_MAG_VAL   : 2.54628
 rmsVal1       : 3.98493
 rmsVal2       : 3.98493
 AVG_RMS_Val   : 3.98493
 amplitudeVal1 : 1.60423
 amplitudeVal2 : 1.60423
 AVG_AMP_VAL   : 1.60423
-Label 1       : spos
-Label 2       : spos
+Label 1       : d
+Label 2       : d
 t1Start       : 15.67500
 t1End         : 15.81500
 t2Start       : 15.67500

@@ -390,14 +390,27 @@ tAvgIndex     : 16.18750
 
 Iteration     : 31
 Label         : k
-Average Val   : -0.00022
+Average Val   : 0.00064
+RMS Val       : 0.00444
+Amplitude Val : 0.00761
+Label 1       : cons
+Label 2       : spos
+t1Start       : 16.22500
+t1End         : 16.32500
+t2Start       : 16.27500
+t2End         : 16.32500
+tAvgIndex     : 16.27500
+
+Iteration     : 32
+Label         : d
+Average Val   : -0.00209
 RMS Val       : 0.03921
 Amplitude Val : 0.08149
-Label 1       : cons
+Label 1       : sneg
 Label 2       : sneg
-t1Start       : 16.22500
+t1Start       : 16.32500
 t1End         : 16.38500
 t2Start       : 16.32500
 t2End         : 16.38500
-tAvgIndex     : 16.30500
+tAvgIndex     : 16.35500
 

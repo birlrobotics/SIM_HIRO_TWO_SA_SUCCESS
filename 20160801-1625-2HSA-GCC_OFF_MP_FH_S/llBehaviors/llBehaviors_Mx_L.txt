@@ -9,8 +9,8 @@ AVG_RMS_Val   : -0.00196
 amplitudeVal1 : 0.01668
 amplitudeVal2 : 0.01204
 AVG_AMP_VAL   : 0.01668
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 0.00000
 t1End         : 2.47500
 t2Start       : 2.47500
@@ -28,8 +28,8 @@ AVG_RMS_Val   : -0.00750
 amplitudeVal1 : 0.00021
 amplitudeVal2 : 0.00021
 AVG_AMP_VAL   : 0.00021
-Label 1       : spos
-Label 2       : none
+Label 1       : d
+Label 2       : z
 t1Start       : 11.52500
 t1End         : 11.52500
 t2Start       : 11.57500
@@ -47,8 +47,8 @@ AVG_RMS_Val   : -0.00761
 amplitudeVal1 : 0.00373
 amplitudeVal2 : 0.00552
 AVG_AMP_VAL   : 0.00664
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 11.57500
 t1End         : 12.42500
 t2Start       : 12.42500
@@ -66,8 +66,8 @@ AVG_RMS_Val   : 0.00082
 amplitudeVal1 : 0.02536
 amplitudeVal2 : 0.01628
 AVG_AMP_VAL   : 0.10391
-Label 1       : mneg
-Label 2       : mneg
+Label 1       : pc
+Label 2       : pc
 t1Start       : 13.35000
 t1End         : 13.67500
 t2Start       : 13.67500
@@ -85,8 +85,8 @@ AVG_RMS_Val   : -0.00313
 amplitudeVal1 : 0.00462
 amplitudeVal2 : 0.02486
 AVG_AMP_VAL   : 0.02486
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 14.57500
 t1End         : 14.90000
 t2Start       : 14.90000
@@ -104,8 +104,8 @@ AVG_RMS_Val   : 0.00327
 amplitudeVal1 : 0.00524
 amplitudeVal2 : 0.00524
 AVG_AMP_VAL   : 0.00524
-Label 1       : spos
-Label 2       : none
+Label 1       : d
+Label 2       : z
 t1Start       : 15.15000
 t1End         : 15.15000
 t2Start       : 15.17500
@@ -123,8 +123,8 @@ AVG_RMS_Val   : 0.01299
 amplitudeVal1 : 0.01503
 amplitudeVal2 : 0.00841
 AVG_AMP_VAL   : 0.02559
-Label 1       : bpos
-Label 2       : bpos
+Label 1       : a
+Label 2       : a
 t1Start       : 15.17500
 t1End         : 16.12500
 t2Start       : 16.12500
@@ -142,8 +142,8 @@ AVG_RMS_Val   : 0.01651
 amplitudeVal1 : 0.01135
 amplitudeVal2 : 0.00100
 AVG_AMP_VAL   : 0.01135
-Label 1       : mneg
-Label 2       : mneg
+Label 1       : pc
+Label 2       : pc
 t1Start       : 16.17500
 t1End         : 16.40000
 t2Start       : 16.40000
@@ -152,39 +152,20 @@ tAvgIndex     : 16.33750
 
 Iteration     : 9
 CompLabel     : FX
-averageVal1   : 0.00564
-averageVal2   : 0.00564
-AVG_MAG_VAL   : 0.00564
-rmsVal1       : 0.01522
-rmsVal2       : 0.01522
-AVG_RMS_Val   : 0.01522
-amplitudeVal1 : 0.06256
-amplitudeVal2 : 0.06256
-AVG_AMP_VAL   : 0.06256
-Label 1       : bneg
-Label 2       : none
+averageVal1   : -0.00063
+averageVal2   : -0.00063
+AVG_MAG_VAL   : -0.00063
+rmsVal1       : 0.02070
+rmsVal2       : 0.02070
+AVG_RMS_Val   : 0.02070
+amplitudeVal1 : 0.07667
+amplitudeVal2 : 0.07667
+AVG_AMP_VAL   : 0.07667
+Label 1       : k
+Label 2       : k
 t1Start       : 16.50000
-t1End         : 16.57500
-t2Start       : 16.55000
-t2End         : 16.57500
-tAvgIndex     : 16.53750
-
-Iteration     : 10
-CompLabel     : PL
-averageVal1   : -0.01309
-averageVal2   : -0.01309
-AVG_MAG_VAL   : -0.01309
-rmsVal1       : 0.00894
-rmsVal2       : 0.00894
-AVG_RMS_Val   : 0.00894
-amplitudeVal1 : 0.06256
-amplitudeVal2 : 0.06256
-AVG_AMP_VAL   : 0.06256
-Label 1       : spos
-Label 2       : spos
-t1Start       : 16.57500
 t1End         : 16.63500
-t2Start       : 16.57500
+t2Start       : 16.50000
 t2End         : 16.63500
-tAvgIndex     : 16.60500
+tAvgIndex     : 16.56750
 

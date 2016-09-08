@@ -1,3 +1,12 @@
+Iteration : 1
+Average   : 0.31439
+Max Val   : 0.52954
+Min Val   : 0.09924
+Start     : 0.00000
+Finish    : 0.15000
+Gradient  : 2.86868
+Grad Label: pimp  
+
 Iteration : 2
 Average   : 0.53613
 Max Val   : 0.55816
@@ -2735,19 +2744,10 @@ Gradient  : -8.32530
 Grad Label: nimp  
 
 Iteration : 306
-Average   : 0.67806
-Max Val   : 0.74003
-Min Val   : 0.61608
+Average   : 0.73212
+Max Val   : 1.47691
+Min Val   : -0.01266
 Start     : 16.50000
-Finish    : 16.52500
-Gradient  : -4.95783
-Grad Label: nimp  
-
-Iteration : 307
-Average   : 0.71589
-Max Val   : 0.77166
-Min Val   : 0.66013
-Start     : 16.52500
 Finish    : 16.53000
 Gradient  : -4.95783
 Grad Label: nimp  

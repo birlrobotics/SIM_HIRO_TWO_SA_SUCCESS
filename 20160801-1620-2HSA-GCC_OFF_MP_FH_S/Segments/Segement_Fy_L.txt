@@ -1,3 +1,12 @@
+Iteration : 1
+Average   : 0.34260
+Max Val   : 0.55775
+Min Val   : 0.12745
+Start     : 0.00000
+Finish    : 0.15000
+Gradient  : 2.86868
+Grad Label: pimp  
+
 Iteration : 2
 Average   : 0.56243
 Max Val   : 0.58916
@@ -2735,19 +2744,10 @@ Gradient  : 0.30966
 Grad Label: cons  
 
 Iteration : 306
-Average   : 0.79107
-Max Val   : 0.79871
-Min Val   : 0.78344
-Start     : 15.97500
-Finish    : 16.00000
-Gradient  : 0.61074
-Grad Label: spos  
-
-Iteration : 307
-Average   : 0.80803
+Average   : 0.78748
 Max Val   : 0.83836
-Min Val   : 0.77770
-Start     : 16.00000
+Min Val   : 0.73660
+Start     : 15.97500
 Finish    : 16.01500
 Gradient  : 0.61074
 Grad Label: spos  

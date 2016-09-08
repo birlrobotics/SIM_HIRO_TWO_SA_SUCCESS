@@ -1,3 +1,12 @@
+Iteration : 1
+Average   : -0.46665
+Max Val   : -0.21078
+Min Val   : -0.72252
+Start     : 0.00000
+Finish    : 0.17500
+Gradient  : -2.92423
+Grad Label: sneg  
+
 Iteration : 2
 Average   : -0.70848
 Max Val   : -0.69126
@@ -3239,19 +3248,10 @@ Gradient  : 9.95646
 Grad Label: bpos  
 
 Iteration : 362
-Average   : -0.78103
-Max Val   : -0.57094
-Min Val   : -0.99113
-Start     : 16.62500
-Finish    : 16.65000
-Gradient  : 16.80775
-Grad Label: pimp  
-
-Iteration : 363
-Average   : -0.37302
+Average   : -0.68597
 Max Val   : -0.11445
-Min Val   : -0.63158
-Start     : 16.65000
+Min Val   : -1.25748
+Start     : 16.62500
 Finish    : 16.67000
 Gradient  : 16.80775
 Grad Label: pimp  
